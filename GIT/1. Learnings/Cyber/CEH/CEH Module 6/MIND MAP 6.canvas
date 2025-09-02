@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8121a6a15320f430","type":"text","text":"By Hacker School","x":-280,"y":-104,"width":192,"height":60},
+		{"id":"5e28691a7c56862c","type":"text","text":"By ME","x":4,"y":-104,"width":125,"height":60},
+		{"id":"2a6323f17125945a","type":"text","text":"CEH Module 6","x":-184,"y":-300,"width":250,"height":60},
+		{"id":"136d3cc0eb36d932","type":"text","text":"[[System Hacking]]","x":4,"y":40,"width":250,"height":60},
+		{"id":"f4079a379217a493","x":350,"y":-109,"width":250,"height":60,"type":"text","text":"[[Cheat Sheet Metasploit]]"}
+	],
+	"edges":[
+		{"id":"7bc26867775be9f1","fromNode":"2a6323f17125945a","fromSide":"bottom","toNode":"8121a6a15320f430","toSide":"top"},
+		{"id":"b9728677846fd836","fromNode":"2a6323f17125945a","fromSide":"bottom","toNode":"5e28691a7c56862c","toSide":"top"},
+		{"id":"5563bfab40034c8c","fromNode":"5e28691a7c56862c","fromSide":"bottom","toNode":"136d3cc0eb36d932","toSide":"top"},
+		{"id":"c6feccc2e26ac7cc","fromNode":"5e28691a7c56862c","fromSide":"right","toNode":"f4079a379217a493","toSide":"left"}
+	]
+}

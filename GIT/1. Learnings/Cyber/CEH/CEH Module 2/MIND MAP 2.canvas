@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"7bc6057db8fec427","type":"text","text":"[[Footprinting and Reconnaissance]]","x":36,"y":92,"width":304,"height":60},
+		{"id":"6bb6a6d48e67abea","type":"text","text":"CEH Module 2","x":-164,"y":-160,"width":250,"height":60},
+		{"id":"5eff043ac339d783","x":-316,"y":-28,"width":192,"height":60,"type":"text","text":"By Hacker School"},
+		{"id":"78beed2e362d24af","x":60,"y":-28,"width":125,"height":60,"type":"text","text":"By ME"},
+		{"id":"761fa8c4c4a290d6","type":"text","text":"[[2.Footprinting and Reconnaissance.pdf]]","x":-440,"y":92,"width":340,"height":60}
+	],
+	"edges":[
+		{"id":"c049508423430f5c","fromNode":"6bb6a6d48e67abea","fromSide":"bottom","toNode":"5eff043ac339d783","toSide":"top"},
+		{"id":"13221f8f24baef91","fromNode":"6bb6a6d48e67abea","fromSide":"bottom","toNode":"78beed2e362d24af","toSide":"top"},
+		{"id":"55cb44990512dbc3","fromNode":"5eff043ac339d783","fromSide":"bottom","toNode":"761fa8c4c4a290d6","toSide":"top"},
+		{"id":"dbf236a7863c5cdb","fromNode":"78beed2e362d24af","fromSide":"bottom","toNode":"7bc6057db8fec427","toSide":"top"}
+	]
+}

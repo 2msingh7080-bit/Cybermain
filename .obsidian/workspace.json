@@ -1,0 +1,724 @@
+{
+  "main": {
+    "id": "881666c04fe301e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "24bcf8cbfa2027b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d69c4db5911650ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "50180b457c43c838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 5"
+            }
+          },
+          {
+            "id": "16e54544cb986392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL injection.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SQL injection"
+            }
+          },
+          {
+            "id": "dca9849a71e3cd30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Main Notes/Cheat-Sheet Enumeration (best version-AI).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cheat-Sheet Enumeration (best version-AI)"
+            }
+          },
+          {
+            "id": "ed3c77ba1ed50d2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 6.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 6"
+            }
+          },
+          {
+            "id": "b26c4f8b763d6ffa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "info.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "info"
+            }
+          },
+          {
+            "id": "2298c8810afacb58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIFI Hacking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "WIFI Hacking"
+            }
+          },
+          {
+            "id": "76e692fb4573e364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 7"
+            }
+          },
+          {
+            "id": "77f3335a9d387051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interview Questions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "interview Questions"
+            }
+          },
+          {
+            "id": "be043c0f3a917673",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/interview.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "interview.excalidraw"
+            }
+          },
+          {
+            "id": "e4bff9282ea435d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 8"
+            }
+          },
+          {
+            "id": "d45afdaeecdcca3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Radio Spectrum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Radio Spectrum"
+            }
+          },
+          {
+            "id": "03cea7ea97d6b93d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Learnings/Cyber/JOBE/job.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "job"
+            }
+          },
+          {
+            "id": "4284c58269db9fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS creating account.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AWS creating account"
+            }
+          },
+          {
+            "id": "d4469d5186686037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Learnings/programming/Python/Python.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Python"
+            }
+          },
+          {
+            "id": "9cb3a38ffa6127c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Basics"
+            }
+          },
+          {
+            "id": "8b6383154d44e2ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bash"
+            }
+          },
+          {
+            "id": "84ea2b2eb40c3556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/6. Main Notes/Footprinting (concepts).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Footprinting (concepts)"
+            }
+          },
+          {
+            "id": "952f0e535dd2c2e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/CEH eng.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CEH eng"
+            }
+          },
+          {
+            "id": "796ac32d6b13f077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/CEH short.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CEH short"
+            }
+          },
+          {
+            "id": "21069fa47cbf38a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 20
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f7a6efbf5eaf130",
+    "type": "split",
+    "children": [
+      {
+        "id": "97f5352538d84de0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f461eaac14354ff3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a12695e0aebe285e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "02eecbe8ebc0e89c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.50418853759766
+  },
+  "right": {
+    "id": "286094a4c69f3690",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0f64f089c5b228a",
+        "type": "tabs",
+        "dimension": 65.25096525096525,
+        "children": [
+          {
+            "id": "a63d85c4fecbecce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "553ece31426c95dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "705acc029903b6e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b4fd9eb82adbd448",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "5be0ee349da60e32",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2c311f25128f9ec6",
+        "type": "tabs",
+        "dimension": 34.74903474903475,
+        "children": [
+          {
+            "id": "063ffe948c33cd04",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "21069fa47cbf38a0",
+  "lastOpenFiles": [
+    "GIT/CEH short.md",
+    "GIT/Excalidraw/Drawing 2025-07-22 17.04.18.excalidraw.md",
+    "GIT/Excalidraw/interview.excalidraw.md",
+    "GIT/Untitled.md",
+    "GIT",
+    "GIT/6. Main Notes/Footprinting (concepts).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 2/CEH Module 2.md",
+    "GIT/Hacking Web servers (Concepts).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
+    "GIT/Denial-of-Service (Concepts).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 10/CEH Module 10.md",
+    "GIT/Social Engineering (concepts).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 9/Module 9.md",
+    "GIT/Sniffing (Concepts ).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 8/CEH Module 8.md",
+    "GIT/Malware Threats (concepts).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 7/CEH Module 7.md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 6/CEH Module 6.md",
+    "GIT/System  Hacking ( Concepts ).md",
+    "GIT/Vulnerability Analysis ( Concepts ).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 5/CEH Module 5.md",
+    "GIT/Enumeration (Concepts).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 4/CEH Module 4.md",
+    "GIT/Scanning Networks (concept).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 3/CEH Module 3.md",
+    "GIT/Cryptography (Concepts).md",
+    "GIT/CEH eng.md",
+    "GIT/Images/Pasted image 20250802150826.png",
+    "GIT/Images/Pasted image 20250824230845.png",
+    "GIT/Images/Pasted image 20250820161626.png",
+    "GIT/Images/Pasted image 20250813151317.png",
+    "GIT/Images/Pasted image 20250803182843.png",
+    "GIT/Images/Pasted image 20250802161007.png",
+    "GIT/Images/Pasted image 20250801223059.png",
+    "GIT/Images/Pasted image 20250801120029.png",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 4/MIND MAP 4.canvas",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 16",
+    "GIT/Images/Pasted image 20250826213327.png",
+    "GIT/1. Learnings/programming/Python",
+    "GIT/Images/Pasted image 20250824232801.png",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 20",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 19",
+    "GIT/1. Learnings/Cyber/JOBE/Road Map for Pentester.canvas",
+    "GIT/1. Learnings/Cyber/JOBE",
+    "GIT/Untitled",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 18",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 17",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 15",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 2/MIND MAP 2.canvas",
+    "GIT/6. Main Notes/Directory System (graph).canvas",
+    "GIT/1. Learnings/Cyber/CPENTv2/CPEN Module 10/Untitled.canvas",
+    "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 6/Untitled.canvas",
+    "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 5/Untitled.canvas",
+    "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 4/Untitled.canvas",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 6/MIND MAP 6.canvas",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 7/Untitled.canvas"
+  ]
+}

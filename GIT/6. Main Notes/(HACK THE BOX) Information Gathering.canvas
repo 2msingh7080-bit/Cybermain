@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"1551dd2dc452f349","type":"text","text":"IP ","x":100,"y":188,"width":87,"height":60},
+		{"id":"1efd1a5f9520cdfe","type":"text","text":"Amazon Registrar, Inc.","x":220,"y":304,"width":250,"height":60},
+		{"id":"b005e078b174e7a2","type":"text","text":"IP Location : Greater London - Kingston Upon Thames - Hack The Box","x":-600,"y":320,"width":250,"height":60},
+		{"id":"79a3dccf4a620b7a","type":"text","text":"whois ","x":-392,"y":188,"width":125,"height":60},
+		{"id":"cf8b1976adebf79e","type":"text","text":"ASN : AS214618 HTB-AS Hack The Box Ltd, GB (registered Jun 27, 2024)","x":-330,"y":320,"width":250,"height":60},
+		{"id":"9b5031f2aad126ca","type":"text","text":"general information ","x":-118,"y":20,"width":218,"height":60},
+		{"id":"d913368aadf8fc7b","type":"text","text":"hackthebox.com","x":-80,"y":-80,"width":180,"height":60},
+		{"id":"5ce6cb2d95b6972a","type":"text","text":" IP : 109.176.239.69","x":-51,"y":304,"width":250,"height":60},
+		{"id":"770c7888592d8a42","type":"text","text":"CODY.NS.CLOUDFLARE.COM \nJILL.NS.CLOUDFLARE.COM ","x":187,"y":603,"width":250,"height":109},
+		{"id":"bd3cd67dfd42b749","type":"text","text":"DNS","x":489,"y":244,"width":95,"height":60},
+		{"id":"fd5cb0f29beb7265","type":"text","text":"MX","x":702,"y":466,"width":99,"height":56},
+		{"id":"d569e7c4c51700d1","type":"text","text":"Name server","x":379,"y":462,"width":158,"height":60},
+		{"id":"23a45f48d78943c4","type":"text","text":"hackthebox.com  MX preference = 10, mail exchanger = alt3.aspmx.l.google.com\nhackthebox.com  MX preference = 10, mail exchanger = alt4.aspmx.l.google.com\nhackthebox.com  MX preference = 5, mail exchanger = alt1.aspmx.l.google.com\nhackthebox.com  MX preference = 5, mail exchanger = alt2.aspmx.l.google.com\nhackthebox.com  MX preference = 1, mail exchanger = aspmx.l.google.com","x":489,"y":561,"width":649,"height":194}
+	],
+	"edges":[
+		{"id":"f20412ef956e6749","fromNode":"d913368aadf8fc7b","fromSide":"bottom","toNode":"9b5031f2aad126ca","toSide":"top"},
+		{"id":"484c57367bf267f5","fromNode":"9b5031f2aad126ca","fromSide":"bottom","toNode":"79a3dccf4a620b7a","toSide":"top"},
+		{"id":"813ccb4203827326","fromNode":"79a3dccf4a620b7a","fromSide":"bottom","toNode":"b005e078b174e7a2","toSide":"top"},
+		{"id":"3450ba4a004278c8","fromNode":"79a3dccf4a620b7a","fromSide":"bottom","toNode":"cf8b1976adebf79e","toSide":"top"},
+		{"id":"96c5b48a8adb20eb","fromNode":"9b5031f2aad126ca","fromSide":"bottom","toNode":"1551dd2dc452f349","toSide":"top"},
+		{"id":"e387191b26782cc1","fromNode":"1551dd2dc452f349","fromSide":"bottom","toNode":"5ce6cb2d95b6972a","toSide":"top"},
+		{"id":"a3a08c20738cbb6a","fromNode":"1551dd2dc452f349","fromSide":"bottom","toNode":"1efd1a5f9520cdfe","toSide":"top"},
+		{"id":"6e57d04f300a0746","fromNode":"9b5031f2aad126ca","fromSide":"bottom","toNode":"bd3cd67dfd42b749","toSide":"top"},
+		{"id":"9df210f467a8ada9","fromNode":"bd3cd67dfd42b749","fromSide":"bottom","toNode":"d569e7c4c51700d1","toSide":"top"},
+		{"id":"8c60783fb8bccf2c","fromNode":"d569e7c4c51700d1","fromSide":"bottom","toNode":"770c7888592d8a42","toSide":"top"},
+		{"id":"e4a0142e9abc58df","fromNode":"bd3cd67dfd42b749","fromSide":"bottom","toNode":"fd5cb0f29beb7265","toSide":"top"},
+		{"id":"5fa0adac3e42a379","fromNode":"fd5cb0f29beb7265","fromSide":"bottom","toNode":"23a45f48d78943c4","toSide":"top"}
+	]
+}

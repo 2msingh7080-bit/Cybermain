@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"f7cfce3bfdc360b3","type":"text","text":"CEH Module 1 notes ","x":-140,"y":-1380,"width":250,"height":60},
+		{"id":"8563e1048cc58e31","type":"text","text":"BY ME","x":47,"y":-1180,"width":126,"height":60},
+		{"id":"f126c14a92065ecd","type":"text","text":"[[1.Intro to Ethical Hacking.pdf]]","x":-600,"y":-1010,"width":250,"height":60},
+		{"id":"9100d7b46ae7f788","type":"text","text":"[[LinuxCommands.pdf]]","x":-330,"y":-1010,"width":220,"height":60},
+		{"id":"3c6db8c12abf52c9","type":"text","text":"BY Hacker School","x":-420,"y":-1180,"width":200,"height":60},
+		{"id":"5313daa6ec2b2863","type":"text","text":"[[Introduction to Ethical Hacking]]","x":16,"y":-1010,"width":188,"height":60},
+		{"id":"6a70a8a36ecdfea9","type":"text","text":"[[Directory System (graph).canvas|Directory System (graph)]]","x":-15,"y":-900,"width":248,"height":50},
+		{"id":"29fbd243747f134b","type":"text","text":"[[GIT/CEH running notes (AI)]]","x":320,"y":-1010,"width":240,"height":60}
+	],
+	"edges":[
+		{"id":"791ab7db60abea08","fromNode":"8563e1048cc58e31","fromSide":"right","toNode":"29fbd243747f134b","toSide":"left","label":"1"},
+		{"id":"c9ae7958010ed98d","fromNode":"5313daa6ec2b2863","fromSide":"bottom","toNode":"6a70a8a36ecdfea9","toSide":"top"},
+		{"id":"7191aa6d804343b9","fromNode":"f7cfce3bfdc360b3","fromSide":"bottom","toNode":"3c6db8c12abf52c9","toSide":"top"},
+		{"id":"493db29f72a750dd","fromNode":"3c6db8c12abf52c9","fromSide":"bottom","toNode":"9100d7b46ae7f788","toSide":"top","label":"2"},
+		{"id":"d04deb7e7d2a3a6c","fromNode":"f7cfce3bfdc360b3","fromSide":"bottom","toNode":"8563e1048cc58e31","toSide":"top"},
+		{"id":"96670d74d52caf64","fromNode":"3c6db8c12abf52c9","fromSide":"bottom","toNode":"f126c14a92065ecd","toSide":"top","label":"1"},
+		{"id":"42920da83e739a97","fromNode":"8563e1048cc58e31","fromSide":"bottom","toNode":"5313daa6ec2b2863","toSide":"top","label":"1"}
+	]
+}

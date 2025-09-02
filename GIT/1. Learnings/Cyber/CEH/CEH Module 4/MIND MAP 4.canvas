@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ff31fa44cf056058","type":"text","text":"By Hacker School","x":-240,"y":-64,"width":192,"height":60},
+		{"id":"a3cdca134dc60e30","type":"text","text":"By ME","x":44,"y":-64,"width":125,"height":60},
+		{"id":"f74fb86b67133b56","type":"text","text":"[[Enumeration]]","x":23,"y":60,"width":166,"height":60},
+		{"id":"a60054002dda5558","x":278,"y":30,"width":382,"height":60,"type":"text","text":"[[Cheat-Sheet Enumeration (best version-AI)]]"},
+		{"id":"489815a420b3a63a","type":"text","text":"CEH Module 4","x":-144,"y":-260,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f37803b73428c31e","fromNode":"489815a420b3a63a","fromSide":"bottom","toNode":"ff31fa44cf056058","toSide":"top"},
+		{"id":"0bf645f97c09bbd3","fromNode":"489815a420b3a63a","fromSide":"bottom","toNode":"a3cdca134dc60e30","toSide":"top"},
+		{"id":"0f4fef712b139d2a","fromNode":"a3cdca134dc60e30","fromSide":"bottom","toNode":"f74fb86b67133b56","toSide":"top"},
+		{"id":"d2958ea45f162772","fromNode":"a3cdca134dc60e30","fromSide":"right","toNode":"a60054002dda5558","toSide":"left"}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"be6b86c9652291b4","x":-900,"y":20,"width":1067,"height":450,"type":"group","label":"Kind "},
+		{"id":"30f4c3be17554eca","type":"text","text":"\nTypes of Penetration Testing","x":-348,"y":-240,"width":265,"height":60},
+		{"id":"ad01efe42470e05d","type":"text","text":"Internal Pentesting","x":-432,"y":-70,"width":212,"height":60},
+		{"id":"9c5ca4c4c09fe792","type":"text","text":"External Pentesting","x":-186,"y":-70,"width":206,"height":60},
+		{"id":"71d27dd9425fece6","type":"text","text":"\nTypes of Penetration Testing","x":-348,"y":40,"width":265,"height":60},
+		{"id":"c9db4bef46d977da","type":"text","text":"White Box\n","x":-291,"y":220,"width":143,"height":50},
+		{"id":"427843b22a52a4a7","x":-443,"y":400,"width":214,"height":50,"type":"text","text":"Announced Testing"},
+		{"id":"aa2f8f684ddc3dfa","x":-212,"y":400,"width":224,"height":50,"type":"text","text":"Unannounced Testing"},
+		{"id":"5990b017902df32c","type":"text","text":" Grey Box","x":12,"y":220,"width":135,"height":50},
+		{"id":"4a5128db2fffc5bf","type":"text","text":" Black Box\n","x":-622,"y":220,"width":132,"height":50},
+		{"id":"dfee48fc7f64cb93","x":-880,"y":400,"width":159,"height":50,"type":"text","text":"Blind Testing"},
+		{"id":"78374da6843d9b3b","x":-700,"y":400,"width":213,"height":50,"type":"text","text":"Double Blind Testing"}
+	],
+	"edges":[
+		{"id":"9b3491b50f7272ec","fromNode":"30f4c3be17554eca","fromSide":"bottom","toNode":"ad01efe42470e05d","toSide":"top"},
+		{"id":"6a38dc14d5c9fdf2","fromNode":"30f4c3be17554eca","fromSide":"bottom","toNode":"9c5ca4c4c09fe792","toSide":"top"},
+		{"id":"18f3a31f8e4ca4fc","fromNode":"71d27dd9425fece6","fromSide":"bottom","toNode":"4a5128db2fffc5bf","toSide":"top"},
+		{"id":"23b67de7a47cd1f0","fromNode":"71d27dd9425fece6","fromSide":"bottom","toNode":"c9db4bef46d977da","toSide":"top"},
+		{"id":"1796c098ea9436bc","fromNode":"71d27dd9425fece6","fromSide":"bottom","toNode":"5990b017902df32c","toSide":"top"},
+		{"id":"5a0cd74864f5d56a","fromNode":"4a5128db2fffc5bf","fromSide":"bottom","toNode":"dfee48fc7f64cb93","toSide":"top"},
+		{"id":"b921ca57726be49d","fromNode":"4a5128db2fffc5bf","fromSide":"bottom","toNode":"78374da6843d9b3b","toSide":"top"},
+		{"id":"57d8b7563671e02c","fromNode":"c9db4bef46d977da","fromSide":"bottom","toNode":"427843b22a52a4a7","toSide":"top"},
+		{"id":"43097e9c5ecb881d","fromNode":"c9db4bef46d977da","fromSide":"bottom","toNode":"aa2f8f684ddc3dfa","toSide":"top"}
+	]
+}

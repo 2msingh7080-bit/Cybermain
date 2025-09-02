@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "rightToLeft": false,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "vimMode": false
+}

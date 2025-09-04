@@ -457,7 +457,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/Vulnerability Analysis ( Concepts ).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -472,7 +472,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CEH short"
+              "title": "Vulnerability Analysis ( Concepts )"
             }
           },
           {
@@ -575,7 +575,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/Vulnerability Analysis ( Concepts ).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -585,7 +585,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CEH short"
+              "title": "Backlinks for Vulnerability Analysis ( Concepts )"
             }
           },
           {
@@ -594,12 +594,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/Vulnerability Analysis ( Concepts ).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CEH short"
+              "title": "Outgoing links from Vulnerability Analysis ( Concepts )"
             }
           },
           {
@@ -623,13 +623,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/Vulnerability Analysis ( Concepts ).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CEH short"
+              "title": "Outline of Vulnerability Analysis ( Concepts )"
             }
           },
           {
@@ -680,8 +680,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a12695e0aebe285e",
+  "active": "796ac32d6b13f077",
   "lastOpenFiles": [
+    "GIT/CEH short.md",
     "GIT/6. Main Notes/Ports and Internet Services.md",
     "GIT/IOT and OT Hacking.md",
     "GIT/partical Activitys/Hsbox1.md",
@@ -690,7 +691,6 @@
     "GIT/6. Main Notes/Footprinting (concepts).md",
     "GIT/Enumeration (Concepts).md",
     "GIT/6. Main Notes/Cheatsheet NMAP.md",
-    "GIT/CEH short.md",
     "GIT/Excalidraw/Drawing 2025-07-22 17.04.18.excalidraw.md",
     "GIT/Excalidraw/interview.excalidraw.md",
     "GIT/Untitled.md",

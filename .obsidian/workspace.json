@@ -428,30 +428,6 @@
             }
           },
           {
-            "id": "952f0e535dd2c2e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/CEH short.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CEH short"
-            }
-          },
-          {
             "id": "796ac32d6b13f077",
             "type": "leaf",
             "state": {
@@ -476,27 +452,13 @@
             }
           },
           {
-            "id": "21069fa47cbf38a0",
+            "id": "f3792b4dcb23b1a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/6. Main Notes/Ports and Internet Services.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ports and Internet Services"
+              "title": "New tab"
             }
           }
         ],
@@ -622,13 +584,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/System  Hacking ( Concepts ).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of System  Hacking ( Concepts )"
+              "title": "Outline"
             }
           },
           {
@@ -679,11 +640,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "796ac32d6b13f077",
+  "active": "f3792b4dcb23b1a7",
   "lastOpenFiles": [
+    "GIT/System  Hacking ( Concepts ).md",
     "GIT/CEH short.md",
     "GIT/CEH eng.md",
-    "GIT/System  Hacking ( Concepts ).md",
     "GIT/Vulnerability Analysis ( Concepts ).md",
     "GIT/Hacking Web servers (Concepts).md",
     "GIT/6. Main Notes/Vulnerability Analysis.md",

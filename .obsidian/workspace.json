@@ -481,7 +481,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/GHT.md",
+                "file": "GIT/6. Main Notes/Ports and Internet Services.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -496,7 +496,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GHT"
+              "title": "Ports and Internet Services"
             }
           }
         ],
@@ -575,7 +575,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/GHT.md",
+                "file": "GIT/6. Main Notes/Ports and Internet Services.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -585,7 +585,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GHT"
+              "title": "Backlinks for Ports and Internet Services"
             }
           },
           {
@@ -594,12 +594,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/GHT.md",
+                "file": "GIT/6. Main Notes/Ports and Internet Services.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GHT"
+              "title": "Outgoing links from Ports and Internet Services"
             }
           },
           {
@@ -623,13 +623,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/GHT.md",
+                "file": "GIT/6. Main Notes/Ports and Internet Services.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GHT"
+              "title": "Outline of Ports and Internet Services"
             }
           },
           {
@@ -682,6 +682,10 @@
   },
   "active": "21069fa47cbf38a0",
   "lastOpenFiles": [
+    "GIT/IOT and OT Hacking.md",
+    "GIT/partical Activitys/Hsbox1.md",
+    "GIT/Hacking Web Applications (concepts).md",
+    "GIT/GHT.md",
     "GIT/6. Main Notes/Footprinting (concepts).md",
     "GIT/Enumeration (Concepts).md",
     "GIT/6. Main Notes/Cheatsheet NMAP.md",
@@ -705,10 +709,6 @@
     "GIT/System  Hacking ( Concepts ).md",
     "GIT/Vulnerability Analysis ( Concepts ).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 5/CEH Module 5.md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 4/CEH Module 4.md",
-    "GIT/Scanning Networks (concept).md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 3/CEH Module 3.md",
-    "GIT/Cryptography (Concepts).md",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",
     "GIT/Images/Pasted image 20250820161626.png",

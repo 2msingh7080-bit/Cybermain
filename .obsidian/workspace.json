@@ -481,7 +481,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Enumeration (Concepts).md",
+                "file": "GIT/GHT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -496,7 +496,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Enumeration (Concepts)"
+              "title": "GHT"
             }
           }
         ],
@@ -575,7 +575,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Enumeration (Concepts).md",
+                "file": "GIT/GHT.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -585,7 +585,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Enumeration (Concepts)"
+              "title": "Backlinks for GHT"
             }
           },
           {
@@ -594,12 +594,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Enumeration (Concepts).md",
+                "file": "GIT/GHT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Enumeration (Concepts)"
+              "title": "Outgoing links from GHT"
             }
           },
           {
@@ -623,13 +623,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Enumeration (Concepts).md",
+                "file": "GIT/GHT.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Enumeration (Concepts)"
+              "title": "Outline of GHT"
             }
           },
           {
@@ -682,13 +682,14 @@
   },
   "active": "21069fa47cbf38a0",
   "lastOpenFiles": [
+    "GIT/6. Main Notes/Footprinting (concepts).md",
+    "GIT/Enumeration (Concepts).md",
     "GIT/6. Main Notes/Cheatsheet NMAP.md",
     "GIT/CEH short.md",
     "GIT/Excalidraw/Drawing 2025-07-22 17.04.18.excalidraw.md",
     "GIT/Excalidraw/interview.excalidraw.md",
     "GIT/Untitled.md",
     "GIT",
-    "GIT/6. Main Notes/Footprinting (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 2/CEH Module 2.md",
     "GIT/Hacking Web servers (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
@@ -704,7 +705,6 @@
     "GIT/System  Hacking ( Concepts ).md",
     "GIT/Vulnerability Analysis ( Concepts ).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 5/CEH Module 5.md",
-    "GIT/Enumeration (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 4/CEH Module 4.md",
     "GIT/Scanning Networks (concept).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 3/CEH Module 3.md",

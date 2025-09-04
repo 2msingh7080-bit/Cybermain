@@ -33,4 +33,5 @@ Tags:
 | 123             | NTP (Network Time Protocol)                  | UDP          |     |
 | 161, 162        | SNMP (Simple Network Management Protocol)    | UDP          |     |
 | 3389            | RDP (Remote Desktop Protocol)                | TCP          |     |
+| **5555**        |                                              |              |     |
 | 53              | DNS (Domain Name System)                     | TCP/UDP      |     |

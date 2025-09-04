@@ -30,6 +30,7 @@ Tags:
 | 161, 162        | SNMP (Simple Network Management Protocol)    | UDP          |     |
 | 389             | LDAP (Lightweight Directory Access Protocol) |              |     |
 | 443             | HTTPS (HyperText Transfer Protocol Secure)   | TCP          |     |
+| 455             | SMB, Active Directory, Windows shares        |              |     |
 | 465             | SMTPS (SMTP Secure)                          | TCP          |     |
 | 993             | IMAPS (IMAP Secure)                          | TCP          |     |
 | 995             | POP3S (POP3 Secure)                          | TCP          |     |

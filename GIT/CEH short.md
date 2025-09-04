@@ -23,7 +23,7 @@ Tags:
 | 53              | DNS (Domain Name System)                       | TCP/UDP      |     |
 | 67, 68          | DHCP (Dynamic Host Configuration Protocol)     | UDP          |     |
 | 80              | HTTP (HyperText Transfer Protocol)             | TCP          |     |
-| 88              | Kerberos                                       |              |     |
+| 88              | Kerberos / AS-REP Roasting                     |              |     |
 | 110             | POP3 (Post Office Protocol)                    | TCP          |     |
 | 123             | NTP (Network Time Protocol)                    | UDP          |     |
 | 143             | IMAP (Internet Message Access Protocol)        | TCP          |     |

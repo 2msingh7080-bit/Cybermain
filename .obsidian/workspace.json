@@ -532,7 +532,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ports ",
+                "query": "openvas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -680,7 +680,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "796ac32d6b13f077",
+  "active": "a12695e0aebe285e",
   "lastOpenFiles": [
     "GIT/6. Main Notes/Ports and Internet Services.md",
     "GIT/IOT and OT Hacking.md",

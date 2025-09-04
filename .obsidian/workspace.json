@@ -457,7 +457,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Vulnerability Analysis ( Concepts ).md",
+                "file": "GIT/System  Hacking ( Concepts ).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -472,7 +472,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vulnerability Analysis ( Concepts )"
+              "title": "System  Hacking ( Concepts )"
             }
           },
           {
@@ -532,7 +532,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "openvas",
+                "query": "as-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -575,7 +575,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Vulnerability Analysis ( Concepts ).md",
+                "file": "GIT/System  Hacking ( Concepts ).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -585,7 +585,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vulnerability Analysis ( Concepts )"
+              "title": "Backlinks for System  Hacking ( Concepts )"
             }
           },
           {
@@ -594,12 +594,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Vulnerability Analysis ( Concepts ).md",
+                "file": "GIT/System  Hacking ( Concepts ).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vulnerability Analysis ( Concepts )"
+              "title": "Outgoing links from System  Hacking ( Concepts )"
             }
           },
           {
@@ -623,13 +623,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Vulnerability Analysis ( Concepts ).md",
+                "file": "GIT/System  Hacking ( Concepts ).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vulnerability Analysis ( Concepts )"
+              "title": "Outline of System  Hacking ( Concepts )"
             }
           },
           {
@@ -682,8 +682,8 @@
   },
   "active": "796ac32d6b13f077",
   "lastOpenFiles": [
-    "GIT/Hacking Web servers (Concepts).md",
     "GIT/Vulnerability Analysis ( Concepts ).md",
+    "GIT/Hacking Web servers (Concepts).md",
     "GIT/6. Main Notes/Vulnerability Analysis.md",
     "GIT/6. Main Notes/vulnerability-analysis (AIfinal ).md",
     "GIT/CEH short.md",

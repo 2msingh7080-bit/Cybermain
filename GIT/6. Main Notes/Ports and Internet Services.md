@@ -54,25 +54,25 @@ Tags:
 
 Here is a table listing common **port numbers** along with their associated **network services** and **protocols**:
 
-|**Port Number**|**Service**|**Protocol**|
-|---|---|---|
-|20, 21|FTP (File Transfer Protocol)|TCP|
-|22|SSH (Secure Shell)|TCP|
-|23|Telnet|TCP|
-|25|SMTP (Simple Mail Transfer Protocol)|TCP|
-|53|DNS (Domain Name System)|TCP/UDP|
-|67, 68|DHCP (Dynamic Host Configuration Protocol)|UDP|
-|80|HTTP (HyperText Transfer Protocol)|TCP|
-|110|POP3 (Post Office Protocol)|TCP|
-|143|IMAP (Internet Message Access Protocol)|TCP|
-|443|HTTPS (HyperText Transfer Protocol Secure)|TCP|
-|465|SMTPS (SMTP Secure)|TCP|
-|993|IMAPS (IMAP Secure)|TCP|
-|995|POP3S (POP3 Secure)|TCP|
-|123|NTP (Network Time Protocol)|UDP|
-|161, 162|SNMP (Simple Network Management Protocol)|UDP|
-|3389|RDP (Remote Desktop Protocol)|TCP|
-|53|DNS (Domain Name System)|TCP/UDP|
+| **Port Number** | **Service**                                | **Protocol** |
+| --------------- | ------------------------------------------ | ------------ |
+| 20, 21          | FTP (File Transfer Protocol)               | TCP          |
+| 22              | SSH (Secure Shell)                         | TCP          |
+| 23              | Telnet                                     | TCP          |
+| 25              | SMTP (Simple Mail Transfer Protocol)       | TCP          |
+| 53              | DNS (Domain Name System)                   | TCP/UDP      |
+| 67, 68          | DHCP (Dynamic Host Configuration Protocol) | UDP          |
+| 80              | HTTP (HyperText Transfer Protocol)         | TCP          |
+| 110             | POP3 (Post Office Protocol)                | TCP          |
+| 143             | IMAP (Internet Message Access Protocol)    | TCP          |
+| 443             | HTTPS (HyperText Transfer Protocol Secure) | TCP          |
+| 465             | SMTPS (SMTP Secure)                        | TCP          |
+| 993             | IMAPS (IMAP Secure)                        | TCP          |
+| 995             | POP3S (POP3 Secure)                        | TCP          |
+| 123             | NTP (Network Time Protocol)                | UDP          |
+| 161, 162        | SNMP (Simple Network Management Protocol)  | UDP          |
+| 3389            | RDP (Remote Desktop Protocol)              | TCP          |
+| 53              | DNS (Domain Name System)                   | TCP/UDP      |
 
 summary of the **three types of ports** and their **port ranges**.
 

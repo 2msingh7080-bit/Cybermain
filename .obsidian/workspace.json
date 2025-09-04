@@ -433,7 +433,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/CEH eng.md",
+                "file": "GIT/CEH short.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -448,7 +448,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CEH eng"
+              "title": "CEH short"
             }
           },
           {
@@ -500,7 +500,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -553,8 +553,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -623,13 +622,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/System  Hacking ( Concepts ).md",
+                "file": "GIT/CEH short.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of System  Hacking ( Concepts )"
+              "title": "Outline of CEH short"
             }
           },
           {
@@ -680,8 +679,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "796ac32d6b13f077",
+  "active": "952f0e535dd2c2e6",
   "lastOpenFiles": [
+    "GIT/CEH eng.md",
+    "GIT/System  Hacking ( Concepts ).md",
     "GIT/Vulnerability Analysis ( Concepts ).md",
     "GIT/Hacking Web servers (Concepts).md",
     "GIT/6. Main Notes/Vulnerability Analysis.md",
@@ -707,8 +708,6 @@
     "GIT/1. Learnings/Cyber/CEH/CEH Module 9/Module 9.md",
     "GIT/Sniffing (Concepts ).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 8/CEH Module 8.md",
-    "GIT/Malware Threats (concepts).md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 7/CEH Module 7.md",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",
     "GIT/Images/Pasted image 20250820161626.png",

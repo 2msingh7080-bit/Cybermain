@@ -34,4 +34,5 @@ Tags:
 | 161, 162        | SNMP (Simple Network Management Protocol)    | UDP          |     |
 | 3389            | RDP (Remote Desktop Protocol)                | TCP          |     |
 | 5555            | Android Debug Bridge (ADB)                   |              |     |
-| 9871            | - Hadoop HDFS NameNode HTTPS                 |              |     |
+| 6703            | - e-design-web                               |              |     |
+| 9871            | Hadoop HDFS NameNode HTTPS                   |              |     |

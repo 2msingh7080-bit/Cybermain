@@ -452,7 +452,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -574,13 +574,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/SQL injection (concepts).md",
+                "file": "GIT/CEH short.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SQL injection (concepts)"
+              "title": "Outline of CEH short"
             }
           },
           {
@@ -631,8 +631,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84ea2b2eb40c3556",
+  "active": "f3792b4dcb23b1a7",
   "lastOpenFiles": [
+    "GIT/SQL injection (concepts).md",
     "GIT/Malware Threats (concepts).md",
     "GIT/6. Main Notes/Footprinting (concepts).md",
     "GIT/System  Hacking ( Concepts ).md",
@@ -659,7 +660,6 @@
     "GIT/1. Learnings/Cyber/CEH/CEH Module 10/CEH Module 10.md",
     "GIT/Social Engineering (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 9/Module 9.md",
-    "GIT/Sniffing (Concepts ).md",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",
     "GIT/Images/Pasted image 20250820161626.png",

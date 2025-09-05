@@ -548,9 +548,15 @@ ans
 ### Document Steganography Tools
 -  StegoStick 
 - Some examples of document steganography tools are listed as follows: 
-- StegJ (https://sourceforge.net) 
-- Office XML (https://www.irongeek.com) 
-- SNOW (https://darkside.com.au) 
-- Data Stash (https://www.skyjuicesoftware.com)
+	- StegJ (https://sourceforge.net) 
+	- Office XML (https://www.irongeek.com) 
+	- SNOW (https://darkside.com.au) 
+	- Data Stash (https://www.skyjuicesoftware.com)
 
 ### Video Steganography 
+- OmniHide Pro 
+- Some examples of video steganography tools are as follows: 
+	- RT Steganography (https://sourceforge.net) 
+	- StegoStick (https://sourceforge.net)  
+	- OpenPuff (https://embeddedsw.net) 
+	- MSU StegoVideo (http://www.compression.ru)

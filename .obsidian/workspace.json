@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Vulnerability Analysis ( Concepts ).md",
+                "file": "GIT/1. Learnings/Cyber/CEH/CEH Module 8/CEH Module 8.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vulnerability Analysis ( Concepts )"
+              "title": "CEH Module 8"
             }
           }
         ],
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Vulnerability Analysis ( Concepts ).md",
+                "file": "GIT/1. Learnings/Cyber/CEH/CEH Module 8/CEH Module 8.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vulnerability Analysis ( Concepts )"
+              "title": "Outline of CEH Module 8"
             }
           },
           {
@@ -237,6 +237,10 @@
   },
   "active": "732ea40f4cd3d5b1",
   "lastOpenFiles": [
+    "GIT/Malware Threats (concepts).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 7/CEH Module 7.md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 6/CEH Module 6.md",
+    "GIT/Vulnerability Analysis ( Concepts ).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 5/CEH Module 5.md",
     "GIT/Enumeration (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 4/CEH Module 4.md",
@@ -247,9 +251,7 @@
     "GIT/1. Learnings/Cyber/CEH/CEH Module 2/CEH Module 2.md",
     "GIT/SQL injection (concepts).md",
     "GIT/CEH short.md",
-    "GIT/Malware Threats (concepts).md",
     "GIT/System  Hacking ( Concepts ).md",
-    "GIT/Vulnerability Analysis ( Concepts ).md",
     "GIT/CEH eng.md",
     "GIT/Hacking Web servers (Concepts).md",
     "GIT/6. Main Notes/Vulnerability Analysis.md",
@@ -261,9 +263,7 @@
     "GIT/GHT.md",
     "GIT/Excalidraw/Drawing 2025-07-22 17.04.18.excalidraw.md",
     "GIT/Excalidraw/interview.excalidraw.md",
-    "GIT/Untitled.md",
     "GIT",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",
     "GIT/Images/Pasted image 20250820161626.png",

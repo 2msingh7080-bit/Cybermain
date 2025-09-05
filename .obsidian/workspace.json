@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/1. Learnings/Cyber/CEH/CEH Module 8/CEH Module 8.md",
+                "file": "GIT/Social Engineering (concepts).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CEH Module 8"
+              "title": "Social Engineering (concepts)"
             }
           }
         ],
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/1. Learnings/Cyber/CEH/CEH Module 8/CEH Module 8.md",
+                "file": "GIT/Social Engineering (concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CEH Module 8"
+              "title": "Outline of Social Engineering (concepts)"
             }
           },
           {
@@ -237,6 +237,9 @@
   },
   "active": "732ea40f4cd3d5b1",
   "lastOpenFiles": [
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 9/Module 9.md",
+    "GIT/Sniffing (Concepts ).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 8/CEH Module 8.md",
     "GIT/Malware Threats (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 7/CEH Module 7.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 6/CEH Module 6.md",
@@ -260,9 +263,6 @@
     "GIT/IOT and OT Hacking.md",
     "GIT/partical Activitys/Hsbox1.md",
     "GIT/Hacking Web Applications (concepts).md",
-    "GIT/GHT.md",
-    "GIT/Excalidraw/Drawing 2025-07-22 17.04.18.excalidraw.md",
-    "GIT/Excalidraw/interview.excalidraw.md",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",

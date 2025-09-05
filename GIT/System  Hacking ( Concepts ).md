@@ -533,4 +533,7 @@ ans
 - Snow (refer 886 )
 	- syntax 
 		- `` snow [ -CQS ] [ -p passwd ] [ -l line-len ] [ -f file | -m message ] [ infile [ outfile ]] ``
-	- 
+- example :
+	- ``snow -C-m "My swiss bank account number is 45367192746" -p "magic" readme.txt readme1.txt ``
+	  
+### Image Steganography

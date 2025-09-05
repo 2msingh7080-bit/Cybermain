@@ -433,7 +433,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/System  Hacking ( Concepts ).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -448,7 +448,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CEH short"
+              "title": "System  Hacking ( Concepts )"
             }
           }
         ],
@@ -574,13 +574,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/System  Hacking ( Concepts ).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CEH short"
+              "title": "Outline of System  Hacking ( Concepts )"
             }
           },
           {
@@ -633,9 +633,9 @@
   },
   "active": "f3792b4dcb23b1a7",
   "lastOpenFiles": [
+    "GIT/CEH short.md",
     "GIT/Malware Threats (concepts).md",
     "GIT/System  Hacking ( Concepts ).md",
-    "GIT/CEH short.md",
     "GIT/Vulnerability Analysis ( Concepts ).md",
     "GIT/SQL injection (concepts).md",
     "GIT/6. Main Notes/Footprinting (concepts).md",

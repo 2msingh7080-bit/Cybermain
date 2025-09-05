@@ -11,7 +11,8 @@ Tags:
 
 
 - command for searching file in 
-	- ``find / -name  ``
+	- ``find / -name filename -type f 2>/dev/null  ``
+	- ``find / -name acsa.txt -type f 2>/dev/null > cat 5sa.txt ``
 ### References
 - ports and protocol
 

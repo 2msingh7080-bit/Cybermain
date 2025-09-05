@@ -10,7 +10,8 @@ Tags:
 1. `` sudo arp-scan -local or netdiscover -i 10.10.1.0 or nmap -sn ip/24  ``
 
 
-
+- command for searching file in 
+	- ``find / -name  ``
 ### References
 - ports and protocol
 

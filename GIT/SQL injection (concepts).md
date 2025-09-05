@@ -68,4 +68,6 @@ SQL injection is a technique used to take advantage of un-sanitized input vulner
 - [ ]  make notes for using AI sql  
       
 - [ ]  perform sql injection 
+- [ ] 16
+- [ ] 13
 ### References

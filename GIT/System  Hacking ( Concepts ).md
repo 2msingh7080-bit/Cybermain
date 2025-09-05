@@ -530,4 +530,7 @@ ans
 ##  Steganography
 
 ### Whitespace Steganography
-- Snow
+- Snow (refer 886 )
+	- syntax 
+		- `` snow [ -CQS ] [ -p passwd ] [ -l line-len ] [ -f file | -m message ] [ infile [ outfile ]] ``
+	- 

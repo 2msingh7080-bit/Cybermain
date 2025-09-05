@@ -409,7 +409,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Malware Threats (concepts).md",
+                "file": "GIT/SQL injection (concepts).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -424,7 +424,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Malware Threats (concepts)"
+              "title": "SQL injection (concepts)"
             }
           },
           {
@@ -574,13 +574,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Malware Threats (concepts).md",
+                "file": "GIT/SQL injection (concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Malware Threats (concepts)"
+              "title": "Outline of SQL injection (concepts)"
             }
           },
           {
@@ -633,6 +633,7 @@
   },
   "active": "84ea2b2eb40c3556",
   "lastOpenFiles": [
+    "GIT/Malware Threats (concepts).md",
     "GIT/6. Main Notes/Footprinting (concepts).md",
     "GIT/System  Hacking ( Concepts ).md",
     "GIT/CEH short.md",
@@ -659,7 +660,6 @@
     "GIT/Social Engineering (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 9/Module 9.md",
     "GIT/Sniffing (Concepts ).md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 8/CEH Module 8.md",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",
     "GIT/Images/Pasted image 20250820161626.png",

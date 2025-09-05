@@ -74,9 +74,11 @@ SQL injection is a technique used to take advantage of un-sanitized input vulner
 
 
 ## sql injection without cookie 
-manualy search for url that contains ``? and =`` 
-then type jsql in terminal
-paste the url and click the arrow mark 
-choose the asked table and dumped the   
+1. manually search for url that contains ``? and =`` 
+2. then type jsql in terminal
+3. paste the url and click the arrow mark 
+4. choose the asked table and dumped the data 
+5. select column name right click on the table name 
+6. and click load   
 
 ### References

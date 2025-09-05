@@ -38,5 +38,5 @@ Tags:
 | 995             | POP3S (POP3 Secure)                            | TCP          |     |
 | 3389            | RDP (Remote Desktop Protocol) / domain control | TCP          |     |
 | 5555            | Android Debug Bridge (ADB)                     |              |     |
-| 6703            | e-design-web                                   |              |     |
-| 9871            | Hadoop HDFS NameNode HTTPS                     |              |     |
+| 6703            | e-design-web (RAT)                             |              |     |
+| 9871            | Hadoop HDFS NameNode HTTPS (RAT)               |              |     |

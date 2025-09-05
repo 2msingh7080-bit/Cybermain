@@ -452,7 +452,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -574,13 +574,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Malware Threats (concepts).md",
+                "file": "GIT/CEH short.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Malware Threats (concepts)"
+              "title": "Outline of CEH short"
             }
           },
           {
@@ -631,10 +631,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84ea2b2eb40c3556",
+  "active": "f3792b4dcb23b1a7",
   "lastOpenFiles": [
-    "GIT/System  Hacking ( Concepts ).md",
     "GIT/Malware Threats (concepts).md",
+    "GIT/System  Hacking ( Concepts ).md",
     "GIT/CEH short.md",
     "GIT/Vulnerability Analysis ( Concepts ).md",
     "GIT/SQL injection (concepts).md",

@@ -13,6 +13,8 @@ Tags:
 - command for searching file in 
 	- ``find / -name filename -type f 2>/dev/null  ``
 	- ``find / -name acsa.txt -type f 2>/dev/null > cat 5sa.txt ``
+
+- extract a image 
 ### References
 - ports and protocol
 

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Social Engineering (concepts).md",
+                "file": "GIT/Hacking Web Applications (concepts).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Social Engineering (concepts)"
+              "title": "Hacking Web Applications (concepts)"
             }
           }
         ],
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Social Engineering (concepts).md",
+                "file": "GIT/Hacking Web Applications (concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Social Engineering (concepts)"
+              "title": "Outline of Hacking Web Applications (concepts)"
             }
           },
           {
@@ -237,6 +237,10 @@
   },
   "active": "732ea40f4cd3d5b1",
   "lastOpenFiles": [
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
+    "GIT/Hacking Web servers (Concepts).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
+    "GIT/Social Engineering (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 9/Module 9.md",
     "GIT/Sniffing (Concepts ).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 8/CEH Module 8.md",
@@ -256,13 +260,9 @@
     "GIT/CEH short.md",
     "GIT/System  Hacking ( Concepts ).md",
     "GIT/CEH eng.md",
-    "GIT/Hacking Web servers (Concepts).md",
     "GIT/6. Main Notes/Vulnerability Analysis.md",
     "GIT/6. Main Notes/vulnerability-analysis (AIfinal ).md",
     "GIT/6. Main Notes/Ports and Internet Services.md",
-    "GIT/IOT and OT Hacking.md",
-    "GIT/partical Activitys/Hsbox1.md",
-    "GIT/Hacking Web Applications (concepts).md",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",

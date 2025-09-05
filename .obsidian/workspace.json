@@ -509,7 +509,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50418853759766
+    "width": 276.50418853759766
   },
   "right": {
     "id": "286094a4c69f3690",
@@ -631,7 +631,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3792b4dcb23b1a7",
+  "active": "f461eaac14354ff3",
   "lastOpenFiles": [
     "GIT/CEH short.md",
     "GIT/Malware Threats (concepts).md",

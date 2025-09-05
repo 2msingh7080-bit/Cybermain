@@ -16,6 +16,9 @@ Tags:
 
 - extract data from  image 
 	- using OpenStego
+
+- vulnerability scan host with IP address
+	- ``nmap -Pn  - -script vuln <IP> ``
 ### References
 - ports and protocol
 

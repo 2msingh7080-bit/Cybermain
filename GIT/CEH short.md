@@ -14,7 +14,8 @@ Tags:
 	- ``find / -name filename -type f 2>/dev/null  ``
 	- ``find / -name acsa.txt -type f 2>/dev/null > cat 5sa.txt ``
 
-- extract a image 
+- extract data from  image 
+	- using OpenStego
 ### References
 - ports and protocol
 

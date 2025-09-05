@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "Hacking Mobile Platforms"
             }
+          },
+          {
+            "id": "bc82be3b7982efd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/Cryptography (Concepts).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cryptography (Concepts)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -226,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Hacking Mobile Platforms.md",
+                "file": "GIT/Cryptography (Concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hacking Mobile Platforms"
+              "title": "Outline of Cryptography (Concepts)"
             }
           },
           {
@@ -283,8 +307,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73fba95d5550eb25",
+  "active": "bc82be3b7982efd3",
   "lastOpenFiles": [
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 19/CEH Module 19.md",
+    "GIT/IOT and OT Hacking.md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 18/CEH Module 18.md",
+    "GIT/Hacking Mobile Platforms.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 17/CEH Module 17.md",
     "GIT/Hacking Wireless Networks.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 16/CEH Module 16.md",
@@ -306,11 +335,6 @@
     "GIT/Enumeration (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 4/CEH Module 4.md",
     "GIT/6. Main Notes/Cheatsheet NMAP.md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 3/CEH Module 3.md",
-    "GIT/Scanning Networks (concept).md",
-    "GIT/6. Main Notes/Footprinting (concepts).md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 2/CEH Module 2.md",
-    "GIT/CEH short.md",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",

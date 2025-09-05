@@ -409,7 +409,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/SQL injection (concepts).md",
+                "file": "GIT/Malware Threats (concepts).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -424,7 +424,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SQL injection (concepts)"
+              "title": "Malware Threats (concepts)"
             }
           },
           {
@@ -574,13 +574,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/SQL injection (concepts).md",
+                "file": "GIT/Malware Threats (concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SQL injection (concepts)"
+              "title": "Outline of Malware Threats (concepts)"
             }
           },
           {
@@ -633,13 +633,13 @@
   },
   "active": "84ea2b2eb40c3556",
   "lastOpenFiles": [
-    "GIT/CEH short.md",
+    "GIT/Vulnerability Analysis ( Concepts ).md",
     "GIT/SQL injection (concepts).md",
+    "GIT/CEH short.md",
     "GIT/Malware Threats (concepts).md",
     "GIT/6. Main Notes/Footprinting (concepts).md",
     "GIT/System  Hacking ( Concepts ).md",
     "GIT/CEH eng.md",
-    "GIT/Vulnerability Analysis ( Concepts ).md",
     "GIT/Hacking Web servers (Concepts).md",
     "GIT/6. Main Notes/Vulnerability Analysis.md",
     "GIT/6. Main Notes/vulnerability-analysis (AIfinal ).md",

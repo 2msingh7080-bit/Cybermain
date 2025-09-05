@@ -66,11 +66,7 @@ SQL injection is a technique used to take advantage of un-sanitized input vulner
 8. ``then login and do the url parameter change page_id=1 to page_id=84 ``
 
 - [ ]  make notes for using AI sql  
-      
-- [ ]  perform sql injection 
-- [ ] 16
-- [ ] 13
-      \
+
 
 
 ## sql injection without cookie 

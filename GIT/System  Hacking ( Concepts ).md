@@ -529,5 +529,5 @@ ans
 
 ##  Steganography
 
-
-
+### Whitespace Steganography
+- Snow

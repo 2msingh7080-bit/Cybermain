@@ -361,7 +361,7 @@ x Personal Monitor is used for remote monitoring on a computer that includes rec
 1. cd ``Z:\CEHv13 Module 06 System Hacking\Spyware\General Spyware\Spyrix and double-click spm_setup.exe``
 2. then follow the lab manual 
 ## Task 2: Maintain Persistence by Modifying Registry Run Keys
-
+- 
 1.    get acess 
 2. for bypass uac use this module 
 	- ``use exploit/windows/local/bypassuac_silentcleanup ``

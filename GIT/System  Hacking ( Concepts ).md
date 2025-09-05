@@ -561,4 +561,4 @@ ans
 	- OpenPuff (https://embeddedsw.net) 
 	- MSU StegoVideo (http://www.compression.ru)
 ### Steganography Detection Tools
- -  zsteg 
+ -  zsteg (supports only PNG and BMP )

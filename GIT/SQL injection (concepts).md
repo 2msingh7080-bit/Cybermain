@@ -70,4 +70,10 @@ SQL injection is a technique used to take advantage of un-sanitized input vulner
 - [ ]  perform sql injection 
 - [ ] 16
 - [ ] 13
+      \
+
+
+## sql injection without cookie 
+manualy search for url that contains ``?and =``
+
 ### References

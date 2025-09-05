@@ -545,4 +545,12 @@ ans
 	- SSuite Picsel (https://www.ssuitesoft.com) 
 	- CryptaPix (https://www.briggsoft.com)
 
- 
+### Document Steganography Tools
+-  StegoStick 
+- Some examples of document steganography tools are listed as follows: 
+- StegJ (https://sourceforge.net) 
+- Office XML (https://www.irongeek.com) 
+- SNOW (https://darkside.com.au) 
+- Data Stash (https://www.skyjuicesoftware.com)
+
+### Video Steganography 

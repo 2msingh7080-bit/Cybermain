@@ -358,7 +358,7 @@ x Personal Monitor is used for remote monitoring on a computer that includes rec
 ## Task 1: User System Monitoring and Surveillance using Spyrix
 - open Windows Server 2022
 1. cd ``Z:\CEHv13 Module 06 System Hacking\Spyware\General Spyware\Spyrix and double-click spm_setup.exe``
-
+2. then follow the lab manual 
 ## Task 2: Maintain Persistence by Modifying Registry Run Keys
 
 1.    get acess 

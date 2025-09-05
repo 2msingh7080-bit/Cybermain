@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Scanning Networks (concept).md",
+                "file": "GIT/Vulnerability Analysis ( Concepts ).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Scanning Networks (concept)"
+              "title": "Vulnerability Analysis ( Concepts )"
             }
           }
         ],
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Scanning Networks (concept).md",
+                "file": "GIT/Vulnerability Analysis ( Concepts ).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Scanning Networks (concept)"
+              "title": "Outline of Vulnerability Analysis ( Concepts )"
             }
           },
           {
@@ -237,7 +237,12 @@
   },
   "active": "732ea40f4cd3d5b1",
   "lastOpenFiles": [
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 5/CEH Module 5.md",
+    "GIT/Enumeration (Concepts).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 4/CEH Module 4.md",
+    "GIT/6. Main Notes/Cheatsheet NMAP.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 3/CEH Module 3.md",
+    "GIT/Scanning Networks (concept).md",
     "GIT/6. Main Notes/Footprinting (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 2/CEH Module 2.md",
     "GIT/SQL injection (concepts).md",
@@ -254,16 +259,11 @@
     "GIT/partical Activitys/Hsbox1.md",
     "GIT/Hacking Web Applications (concepts).md",
     "GIT/GHT.md",
-    "GIT/Enumeration (Concepts).md",
-    "GIT/6. Main Notes/Cheatsheet NMAP.md",
     "GIT/Excalidraw/Drawing 2025-07-22 17.04.18.excalidraw.md",
     "GIT/Excalidraw/interview.excalidraw.md",
     "GIT/Untitled.md",
     "GIT",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
-    "GIT/Denial-of-Service (Concepts).md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 10/CEH Module 10.md",
-    "GIT/Social Engineering (concepts).md",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",
     "GIT/Images/Pasted image 20250820161626.png",

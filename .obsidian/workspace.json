@@ -126,8 +126,19 @@
               "icon": "lucide-file",
               "title": "Cryptography (Concepts)"
             }
+          },
+          {
+            "id": "6835f3db6adcc838",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "as-",
+                "query": "command execu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,7 +191,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -249,13 +261,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/CEH short.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CEH short"
+              "title": "Outline"
             }
           },
           {
@@ -306,10 +317,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42656ea7e788dd00",
+  "active": "a12695e0aebe285e",
   "lastOpenFiles": [
-    "GIT/SQL injection (concepts).md",
     "GIT/CEH short.md",
+    "GIT/SQL injection (concepts).md",
     "GIT/Cryptography (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 19/CEH Module 19.md",

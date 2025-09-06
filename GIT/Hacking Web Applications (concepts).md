@@ -429,7 +429,7 @@ Before hacking an API, an attacker first needs to identify the target and its pe
 - To identify server side technologies using ShellGPT run 
 	- ``sgpt --chat HWA --shell "Launch whatweb on the target website www.moviescope.com to perform website footprinting. Run a verbose scan and print the output. Save the results in file whatweb_log.txt."``
 
-
+## if files are located in the “C:
 
 
 #### others 

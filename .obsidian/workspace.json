@@ -150,8 +150,33 @@
               "icon": "lucide-file",
               "title": "Hacking Web Applications (concepts)"
             }
+          },
+          {
+            "id": "3eb240bb36b6509b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 6/CPENT Module 6.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CPENT Module 6"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -273,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 6/CPENT Module 6.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CEH short"
+              "title": "Outline of CPENT Module 6"
             }
           },
           {
@@ -330,8 +355,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42656ea7e788dd00",
+  "active": "3eb240bb36b6509b",
   "lastOpenFiles": [
+    "GIT/CEH short.md",
     "GIT/Hacking Web Applications (concepts).md",
     "googlead46660f2cbef5be.html",
     "README.md",
@@ -349,7 +375,6 @@
     "GIT/Hacking Mobile Platforms.md",
     "GIT/Denial of Service.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
-    "GIT/CEH short.md",
     "GIT/SQL injection (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 19/CEH Module 19.md",

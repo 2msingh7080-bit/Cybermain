@@ -76,5 +76,5 @@ SQL injection is a technique used to take advantage of un-sanitized input vulner
 4. choose the asked table and dumped the data 
 5. select column name right click on the table name 
 6. and click load   
-
+in website you can ethical hacking hyper link -> link on it you can observe the url parameter was changed > scroll down to see flag value. 
 ### References

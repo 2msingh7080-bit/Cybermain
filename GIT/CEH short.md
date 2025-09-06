@@ -23,7 +23,7 @@ Tags:
 - chat gpt setup 
 	- ``cd /home/attacker ``
 	- `` bash sgpt.sh ``
-	- enter 
+	- enter the api
 ### References
 - ports and protocol
 

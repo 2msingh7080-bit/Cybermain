@@ -175,8 +175,7 @@
               "title": "System  Hacking ( Concepts )"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -299,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/System  Hacking ( Concepts ).md",
+                "file": "GIT/CEH short.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of System  Hacking ( Concepts )"
+              "title": "Outline of CEH short"
             }
           },
           {
@@ -356,10 +355,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3eb240bb36b6509b",
+  "active": "42656ea7e788dd00",
   "lastOpenFiles": [
-    "GIT/CEH short.md",
     "GIT/System  Hacking ( Concepts ).md",
+    "GIT/CEH short.md",
     "GIT/Vulnerability Analysis ( Concepts ).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 5/CEH Module 5.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 6/CEH Module 6.md",

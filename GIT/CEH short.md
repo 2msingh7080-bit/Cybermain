@@ -22,6 +22,7 @@ Tags:
 
 - chat gpt setup 
 	- ``cd /home/attacker ``
+	- `` bash sgpt.sh ``
 
 ### References
 - ports and protocol

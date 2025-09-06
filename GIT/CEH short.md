@@ -47,6 +47,7 @@ Tags:
 | 465             | SMTPS (SMTP Secure)                            | TCP          |     |
 | 993             | IMAPS (IMAP Secure)                            | TCP          |     |
 | 995             | POP3S (POP3 Secure)                            | TCP          |     |
+| 1433            | SQL server                                     |              |     |
 | 3389            | RDP (Remote Desktop Protocol) / domain control | TCP          |     |
 | 5555            | Android Debug Bridge (ADB)                     |              |     |
 | 6703            | e-design-web (RAT)                             |              |     |

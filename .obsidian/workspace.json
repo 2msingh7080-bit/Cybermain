@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Cryptography (Concepts).md",
+                "file": "GIT/SQL injection (concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cryptography (Concepts)"
+              "title": "Outline of SQL injection (concepts)"
             }
           },
           {
@@ -307,8 +307,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc82be3b7982efd3",
+  "active": "732ea40f4cd3d5b1",
   "lastOpenFiles": [
+    "GIT/Cryptography (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 19/CEH Module 19.md",
     "GIT/IOT and OT Hacking.md",
@@ -334,7 +335,6 @@
     "GIT/1. Learnings/Cyber/CEH/CEH Module 5/CEH Module 5.md",
     "GIT/Enumeration (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 4/CEH Module 4.md",
-    "GIT/6. Main Notes/Cheatsheet NMAP.md",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",

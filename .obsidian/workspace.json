@@ -127,8 +127,7 @@
               "title": "Cryptography (Concepts)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/SQL injection (concepts).md",
+                "file": "GIT/CEH short.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SQL injection (concepts)"
+              "title": "Outline of CEH short"
             }
           },
           {
@@ -307,10 +306,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "732ea40f4cd3d5b1",
+  "active": "42656ea7e788dd00",
   "lastOpenFiles": [
-    "GIT/CEH short.md",
     "GIT/SQL injection (concepts).md",
+    "GIT/CEH short.md",
     "GIT/Cryptography (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 19/CEH Module 19.md",

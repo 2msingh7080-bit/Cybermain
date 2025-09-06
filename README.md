@@ -48,7 +48,4 @@ It’s useful for:
 
 ---
 
-## 📌 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/2msingh7080-bit/Cybermain.git
+

@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
+                "file": "GIT/Denial of Service.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Module 14"
+              "title": "Denial of Service"
             }
           },
           {
@@ -298,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
+                "file": "GIT/Denial of Service.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Module 14"
+              "title": "Outline of Denial of Service"
             }
           },
           {
@@ -357,8 +357,8 @@
   },
   "active": "6835f3db6adcc838",
   "lastOpenFiles": [
-    "GIT/Hacking Web Applications (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
+    "GIT/Hacking Web Applications (concepts).md",
     "GIT/CEH short.md",
     "GIT/SQL injection (concepts).md",
     "GIT/Cryptography (Concepts).md",

@@ -21,6 +21,7 @@ Tags:
 	- ``nmap -Pn  --script vuln <IP> ``
 
 - chat gpt setup 
+	- ``cd /home/attacker ``
 
 ### References
 - ports and protocol

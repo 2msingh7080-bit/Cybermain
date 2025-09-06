@@ -430,7 +430,7 @@ Before hacking an API, an attacker first needs to identify the target and its pe
 	- ``sgpt --chat HWA --shell "Launch whatweb on the target website www.moviescope.com to perform website footprinting. Run a verbose scan and print the output. Save the results in file whatweb_log.txt."``
 
 ## if files are located in the “C:
-
+login to the dvwa application > set security level low > choose command execution type below commands: | dir "C:\Wamp64\www\DVWA\ECweb\Certified" > there are 3 Cipher.txt files. | type "C:\Wamp64\www\DVWA\ECweb\Certified\Cipher1.txt" | type "C:\Wamp64\www\DVWA\ECweb\Certified\Cipher2.txt" | type "C:\Wamp64\www\DVWA\ECweb\Certified\Cipher3.txt" Use online cyber-chief application 
 
 #### others 
 - TO find the **meta-author** 

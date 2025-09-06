@@ -131,10 +131,48 @@
             "id": "6835f3db6adcc838",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Module 14"
+            }
+          },
+          {
+            "id": "16965f3343a5b175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/Hacking Web Applications (concepts).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hacking Web Applications (concepts)"
             }
           }
         ],
@@ -170,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "command execu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,8 +229,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -261,12 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Module 14"
             }
           },
           {
@@ -317,8 +355,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a12695e0aebe285e",
+  "active": "6835f3db6adcc838",
   "lastOpenFiles": [
+    "GIT/Hacking Web Applications (concepts).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
     "GIT/CEH short.md",
     "GIT/SQL injection (concepts).md",
     "GIT/Cryptography (Concepts).md",
@@ -331,8 +371,6 @@
     "GIT/Hacking Wireless Networks.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 16/CEH Module 16.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 15/CEH Module 15.md",
-    "GIT/Hacking Web Applications (concepts).md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
     "GIT/Hacking Web servers (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
     "GIT/Social Engineering (concepts).md",

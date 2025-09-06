@@ -19,6 +19,9 @@ Tags:
 
 - vulnerability scan host with IP address
 	- ``nmap -Pn  --script vuln <IP> ``
+
+- chat gpt setup 
+
 ### References
 - ports and protocol
 

@@ -151,8 +151,7 @@
               "title": "Hacking Web Applications (concepts)"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Hacking Web Applications (concepts).md",
+                "file": "GIT/CEH short.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hacking Web Applications (concepts)"
+              "title": "Outline of CEH short"
             }
           },
           {
@@ -331,8 +330,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16965f3343a5b175",
+  "active": "42656ea7e788dd00",
   "lastOpenFiles": [
+    "GIT/Hacking Web Applications (concepts).md",
     "googlead46660f2cbef5be.html",
     "README.md",
     "GIT/Cryptography (Concepts).md",
@@ -349,7 +349,6 @@
     "GIT/Hacking Mobile Platforms.md",
     "GIT/Denial of Service.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
-    "GIT/Hacking Web Applications (concepts).md",
     "GIT/CEH short.md",
     "GIT/SQL injection (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
@@ -380,7 +379,6 @@
     "GIT/Untitled",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 18",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 17",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 15",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 2/MIND MAP 2.canvas",
     "GIT/6. Main Notes/Directory System (graph).canvas",
     "GIT/1. Learnings/Cyber/CPENTv2/CPEN Module 10/Untitled.canvas",

@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 6/CPENT Module 6.md",
+                "file": "GIT/API and Java Web Token Penetration Testing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CPENT Module 6"
+              "title": "API and Java Web Token Penetration Testing"
             }
           },
           {
@@ -298,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 6/CPENT Module 6.md",
+                "file": "GIT/API and Java Web Token Penetration Testing.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CPENT Module 6"
+              "title": "Outline of API and Java Web Token Penetration Testing"
             }
           },
           {
@@ -357,10 +357,14 @@
   },
   "active": "6835f3db6adcc838",
   "lastOpenFiles": [
+    "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 6/CPENT Module 6.md",
+    "GIT/1. Learnings/Cyber/CPENTv2/CPENT V2.md",
+    "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 5/CPENT Module 5.md",
+    "GIT/Web Application Penetration Testing.md",
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 4/CPENT Module 4.md",
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 3/CPENT Module 3.md",
-    "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 2/CPENT Module 2.md",
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 1/CPENT Module 1.md",
+    "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 2/CPENT Module 2.md",
     "GIT/1. Learnings/Cyber/CPENTv2/CPEN Module 10/CPEN Module  10.md",
     "GIT/Hacking Mobile Platforms.md",
     "GIT/Denial of Service.md",
@@ -379,10 +383,6 @@
     "GIT/1. Learnings/Cyber/CEH/CEH Module 15/CEH Module 15.md",
     "GIT/Hacking Web servers (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
-    "GIT/Social Engineering (concepts).md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 9/Module 9.md",
-    "GIT/Sniffing (Concepts ).md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 8/CEH Module 8.md",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",

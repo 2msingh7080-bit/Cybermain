@@ -438,6 +438,8 @@ The DC responds with an encrypted TGT, which the attacker captures. This TGT, en
 	
  2. run this command 
 	- ``python3 GetNPUsers.py CEH.com/ -no-pass -usersfile /root/ADtools/users.txt -dc-ip 10.10.1.22``
+	- eng
+		- SKILL.CEH.com/ ip 192.168.0.222
 	- We can observe that the user **Joshua** has **DONT_REQUIRE_PREAUTH** set. As this user is vulnerable to AS-REP roasting, we obtain Joshua's password hash.
 3. hash and save it as ``joshuahash.txt``.
 4. crack   password hash using john 

@@ -282,5 +282,52 @@ PhoneSploit-Pro
 13. In Windows : open password file **pawned.txt** in /**Documents**. Open **BCTextEncoder.exe** in E :/CEH-Tools/CEHv13 Module 20 Cryptography/Cryptography Tools/BCTextEncoder
 
 
+## CRC value 
+Deep CRC Search (Without apktool)
 
+Method A: Check ZIP Metadata
+
+unzip -v org_malwarebytes_antimalware.apk | awk ‘{print $1,$8}’ | grep -i « 614c »
+
+This filters CRC values and filenames, showing matches ending with 614c.
+
+Method B: Hex Dump Analysis
+
+If the CRC is hidden in binaries:
+
+xxd org_malwarebytes_antimalware.apk | grep -i « 614c »
+
+Look for patterns like ____614c in the hex output.
+
+Method C: Extract and Search All Files
+
+unzip org_malwarebytes_antimalware.apk -d extracted_apk
+
+grep -r -a « 614c » extracted_apk/  # -a treats binaries as text
+
+4. Focus on Key Areas
+
+If the above fails, the CRC might be in:
+
+Native libraries:
+
+strings extracted_apk/lib/*/*.so | grep -i « 614c »
+
+Certificate metadata:
+
+keytool -printcert -file extracted_apk/META-INF/CERT.RSA | grep -i « 614c »
+
+Resource files:
+
+grep -r -a -o « [0-9a-f]\{8\} » extracted_apk/ | grep -i « 614c$ »
+
+5. Alternative Tools
+
+If standard tools fail: Install apktool (recommended):
+
+sudo apt install apktool
+
+apktool d org_malwarebytes_antimalware.apk
+
+grep -r « 614c » org_malwarebytes_antimalware/
 ### References

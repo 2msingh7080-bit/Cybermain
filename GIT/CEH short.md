@@ -22,7 +22,8 @@ Tags:
 - chat gpt setup 
 	- ``cd /home/attacker ``
 	- `` bash sgpt.sh ``
-	- enter the api
+	- enter the api 
+		- key ``0100d2b7db4049a497d810f79168f8e0``
 
 - to analyze log file IDE
 	- Tail cowrie.log

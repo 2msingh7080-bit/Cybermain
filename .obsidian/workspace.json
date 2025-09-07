@@ -223,7 +223,8 @@
               "title": "Cryptography (Concepts)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -297,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/Hacking Web Applications (concepts).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -307,7 +308,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CEH short"
+              "title": "Backlinks for Hacking Web Applications (concepts)"
             }
           },
           {
@@ -316,12 +317,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/Hacking Web Applications (concepts).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CEH short"
+              "title": "Outgoing links from Hacking Web Applications (concepts)"
             }
           },
           {
@@ -345,13 +346,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/Hacking Web Applications (concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CEH short"
+              "title": "Outline of Hacking Web Applications (concepts)"
             }
           },
           {
@@ -402,16 +403,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42656ea7e788dd00",
+  "active": "6487643f93f310bb",
   "lastOpenFiles": [
-    "GIT/SQL injection (concepts).md",
+    "GIT/Hacking Mobile Platforms.md",
     "GIT/CEH short.md",
+    "GIT/SQL injection (concepts).md",
     "GIT/Cryptography (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
     "GIT/Hacking Wireless Networks.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 16/CEH Module 16.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 17/CEH Module 17.md",
-    "GIT/Hacking Mobile Platforms.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 18/CEH Module 18.md",
     "GIT/6. Main Notes/Cheat-Sheet Enumeration (best version-AI).md",
     "GIT/Cheat Sheet Enueration.md",

@@ -16,6 +16,7 @@ Tags:
 
 - extract data from  image 
 	- using OpenStego
+	- ``steghide extract -sf stealth.jpeg -p azerty@123``
 
 - vulnerability scan host with IP address
 	- ``nmap -Pn  --script vuln <IP> ``

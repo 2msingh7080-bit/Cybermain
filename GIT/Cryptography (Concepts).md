@@ -340,5 +340,11 @@ Key length : 128
 Clé : 06 06 06 06 06 06 06 06 06
 
 ## Compare the hash
+Generate local MD5s for all files in the Archive:
 
+md5sum * > current_hashes.txt
+
+4. 📊 Compare files: Answer = Quotes.txt
+
+diff ../FileHashes.txt current_hashes.txt
 ### References

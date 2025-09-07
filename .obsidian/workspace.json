@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Hacking Web servers (Concepts).md",
+                "file": "GIT/Cryptography (Concepts).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hacking Web servers (Concepts)"
+              "title": "Cryptography (Concepts)"
             }
           },
           {
@@ -298,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Hacking Web servers (Concepts).md",
+                "file": "GIT/Cryptography (Concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hacking Web servers (Concepts)"
+              "title": "Outline of Cryptography (Concepts)"
             }
           },
           {
@@ -357,6 +357,8 @@
   },
   "active": "16965f3343a5b175",
   "lastOpenFiles": [
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
+    "GIT/Hacking Web servers (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
     "GIT/Hacking Web Applications (concepts).md",
     "GIT/CEH short.md",
@@ -382,8 +384,6 @@
     "GIT/Cryptography (Concepts).md",
     "GIT/API and Java Web Token Penetration Testing.md",
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT V2.md",
-    "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 5/CPENT Module 5.md",
-    "GIT/Web Application Penetration Testing.md",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",

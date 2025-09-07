@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/5. Templates/bash.md",
+                "file": "GIT/Malware Threats (concepts).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bash"
+              "title": "Malware Threats (concepts)"
             }
           }
         ],
@@ -298,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/5. Templates/bash.md",
+                "file": "GIT/Malware Threats (concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bash"
+              "title": "Outline of Malware Threats (concepts)"
             }
           },
           {
@@ -357,8 +357,9 @@
   },
   "active": "3eb240bb36b6509b",
   "lastOpenFiles": [
-    "GIT/5. Templates/Full Notes.md",
     "GIT/5. Templates/Numbered Toggle headline.md",
+    "GIT/5. Templates/Full Notes.md",
+    "GIT/5. Templates/bash.md",
     "GIT/Malware Threats (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 7/CEH Module 7.md",
     "GIT/System  Hacking ( Concepts ).md",
@@ -383,7 +384,6 @@
     "GIT/1. Learnings/Cyber/CPENTv2/CPEN Module 10/CPEN Module  10.md",
     "GIT/Hacking Mobile Platforms.md",
     "GIT/Denial of Service.md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",

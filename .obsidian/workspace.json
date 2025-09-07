@@ -251,10 +251,24 @@
             "id": "6aa6827ebfd9be49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LInk.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "LInk"
             }
           }
         ],
@@ -332,6 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LInk.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -341,7 +356,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for LInk"
             }
           },
           {
@@ -350,11 +365,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LInk.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from LInk"
             }
           },
           {
@@ -378,12 +394,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "LInk.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of LInk"
             }
           },
           {
@@ -436,6 +453,7 @@
   },
   "active": "6aa6827ebfd9be49",
   "lastOpenFiles": [
+    "LInk.md",
     "GIT/CEH short.md",
     "GIT/6. Main Notes/Cheat-Sheet Enumeration (best version-AI).md",
     "GIT/Cheat Sheet Enueration.md",
@@ -461,7 +479,6 @@
     "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 10/CEH Module 10.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 9/Module 9.md",
-    "GIT/6. Main Notes/CTF collection Vol.1.md",
     "googlead46660f2cbef5be.html",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",

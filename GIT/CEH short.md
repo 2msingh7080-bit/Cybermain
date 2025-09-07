@@ -33,11 +33,11 @@ Tags:
 	- ``Smb :\> filename_ ``
 ``७  E:\CEH-Tools\ 06 System Hacking\Steganography Tools\Whitespace Steganography Tools > paste .txt > .\Snow.exe -C -p password . \.txt > copy the string > open  cyber chief or crack station online > paste > click on decrypt. ``
 
-``९ \Static Malware Analysis Tools\Packaging and Obfuscation Tools\PEid 
+``९ \Static Malware Analysis Tools\Packaging and Obfuscation Tools\PEid`` 
 
-``११ \Static Malware Analysis Tools\Packaging and Obfuscation Tools\DIE
+``११ \Static Malware Analysis Tools\Packaging and Obfuscation Tools\DIE``
 
-``१४,१५ - dirb  and go location in url 
+``१४,१५ - dirb  and go location in url ``
 ### References
 - ports and protocol
 

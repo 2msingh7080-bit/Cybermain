@@ -199,8 +199,7 @@
               "title": "ceh"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -322,13 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Hacking Web Applications (concepts).md",
+                "file": "GIT/CEH short.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hacking Web Applications (concepts)"
+              "title": "Outline of CEH short"
             }
           },
           {
@@ -379,8 +378,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6487643f93f310bb",
+  "active": "42656ea7e788dd00",
   "lastOpenFiles": [
+    "GIT/Hacking Web Applications (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 15/CEH Module 15.md",
     "GIT/Hacking Wireless Networks.md",
@@ -394,7 +394,6 @@
     "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
     "GIT/Hacking Web servers (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
-    "GIT/Hacking Web Applications (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 10/CEH Module 10.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 9/Module 9.md",
     "GIT/System  Hacking ( Concepts ).md",

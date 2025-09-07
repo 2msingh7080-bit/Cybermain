@@ -34,7 +34,7 @@ Tags:
 ``7.  E:\CEH-Tools\ 06 System Hacking\Steganography Tools\Whitespace Steganography Tools > paste .txt > .\Snow.exe -C -p password . \.txt > copy the string > open  cyber chief or crack station online > paste > click on decrypt. ``
 ``9. \Static Malware Analysis Tools\Packaging and Obfuscation Tools\PEid 
 ``11. \Static Malware Analysis Tools\Packaging and Obfuscation Tools\DIE
-``14,15 
+``14,15 - dirb  and go location in url 
 ### References
 - ports and protocol
 

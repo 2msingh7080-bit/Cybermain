@@ -175,7 +175,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -297,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/SQL injection (concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CEH short"
+              "title": "Outline of SQL injection (concepts)"
             }
           },
           {
@@ -354,11 +355,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42656ea7e788dd00",
+  "active": "732ea40f4cd3d5b1",
   "lastOpenFiles": [
+    "GIT/CEH short.md",
+    "GIT/SQL injection (concepts).md",
     "README.md",
     "GIT/Hacking Web Applications (concepts).md",
-    "GIT/CEH short.md",
     "GIT/Cryptography (Concepts).md",
     "ceh.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
@@ -381,7 +383,6 @@
     "GIT/Sniffing (Concepts ).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 8/CEH Module 8.md",
     "GIT/5. Templates/Numbered Toggle headline.md",
-    "GIT/5. Templates/Full Notes.md",
     "googlead46660f2cbef5be.html",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",

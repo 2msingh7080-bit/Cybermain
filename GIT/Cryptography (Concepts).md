@@ -333,6 +333,10 @@ grep -r « 614c » org_malwarebytes_antimalware/
 
 ##  cryptanalysis
 ### cryp tool
+ Analysis > Symmetric Encryption (modern) > Further Algorithms > Twofish…
 
+Key length : 128
+
+Clé : 06 06 06 06 06 06 06 06 06
 
 ### References

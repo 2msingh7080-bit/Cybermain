@@ -199,8 +199,7 @@
               "title": "ceh"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -322,13 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ceh.md",
+                "file": "GIT/CEH short.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ceh"
+              "title": "Outline of CEH short"
             }
           },
           {
@@ -379,10 +378,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1a89f58cd50ebeb",
+  "active": "42656ea7e788dd00",
   "lastOpenFiles": [
-    "GIT/CEH short.md",
     "ceh.md",
+    "GIT/CEH short.md",
     "GIT/Cryptography (Concepts).md",
     "GIT/Hacking Mobile Platforms.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 17/CEH Module 17.md",

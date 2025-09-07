@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/System  Hacking ( Concepts ).md",
+                "file": "GIT/Malware Threats (concepts).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "System  Hacking ( Concepts )"
+              "title": "Malware Threats (concepts)"
             }
           }
         ],
@@ -208,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rdp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,8 +229,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -299,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/System  Hacking ( Concepts ).md",
+                "file": "GIT/Malware Threats (concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of System  Hacking ( Concepts )"
+              "title": "Outline of Malware Threats (concepts)"
             }
           },
           {
@@ -356,11 +355,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a12695e0aebe285e",
+  "active": "3eb240bb36b6509b",
   "lastOpenFiles": [
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 7/CEH Module 7.md",
+    "GIT/System  Hacking ( Concepts ).md",
     "GIT/SQL injection (concepts).md",
     "GIT/CEH short.md",
-    "GIT/System  Hacking ( Concepts ).md",
     "GIT/Vulnerability Analysis ( Concepts ).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 5/CEH Module 5.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 6/CEH Module 6.md",
@@ -384,7 +384,6 @@
     "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 19/CEH Module 19.md",
     "GIT/IOT and OT Hacking.md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 18/CEH Module 18.md",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",

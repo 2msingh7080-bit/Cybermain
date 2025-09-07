@@ -276,7 +276,10 @@ Steps to Brute-force VeraCrypt Encryption Using hashcat
 
 PhoneSploit-Pro
 
+## BCTextEncoder
+ **BCtetx.txt**
 
+13. In Windows : open password file **pawned.txt** in /**Documents**. Open **BCTextEncoder.exe** in E :/CEH-Tools/CEHv13 Module 20 Cryptography/Cryptography Tools/BCTextEncoder
 
 
 

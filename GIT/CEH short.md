@@ -75,3 +75,6 @@ wlan.fc.type_subtype == 0x0c
 
 wlan.fc.type_subtype == 0x08
 eapol || wlan.fc.type_subtype == 0x08 || wlan.fc.type_subtype == 0x0b
+
+
+find / -name "StealthNet.txt" 2>/dev/null

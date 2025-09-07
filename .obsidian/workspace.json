@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Hacking Web Applications (concepts).md",
+                "file": "GIT/Hacking Web servers (Concepts).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hacking Web Applications (concepts)"
+              "title": "Hacking Web servers (Concepts)"
             }
           },
           {
@@ -298,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Hacking Web Applications (concepts).md",
+                "file": "GIT/Hacking Web servers (Concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hacking Web Applications (concepts)"
+              "title": "Outline of Hacking Web servers (Concepts)"
             }
           },
           {
@@ -357,6 +357,8 @@
   },
   "active": "16965f3343a5b175",
   "lastOpenFiles": [
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
+    "GIT/Hacking Web Applications (concepts).md",
     "GIT/CEH short.md",
     "GIT/Denial-of-Service (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 10/CEH Module 10.md",
@@ -375,7 +377,6 @@
     "GIT/Vulnerability Analysis ( Concepts ).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 5/CEH Module 5.md",
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 6/CPENT Module 6.md",
-    "GIT/Hacking Web Applications (concepts).md",
     "googlead46660f2cbef5be.html",
     "README.md",
     "GIT/Cryptography (Concepts).md",
@@ -383,7 +384,6 @@
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT V2.md",
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 5/CPENT Module 5.md",
     "GIT/Web Application Penetration Testing.md",
-    "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 4/CPENT Module 4.md",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",

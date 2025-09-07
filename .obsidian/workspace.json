@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Hacking Wireless Networks.md",
+                "file": "GIT/Cryptography (Concepts).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hacking Wireless Networks"
+              "title": "Cryptography (Concepts)"
             }
           }
         ],
@@ -298,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Hacking Wireless Networks.md",
+                "file": "GIT/Cryptography (Concepts).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -308,7 +308,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hacking Wireless Networks"
+              "title": "Backlinks for Cryptography (Concepts)"
             }
           },
           {
@@ -317,12 +317,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Hacking Wireless Networks.md",
+                "file": "GIT/Cryptography (Concepts).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hacking Wireless Networks"
+              "title": "Outgoing links from Cryptography (Concepts)"
             }
           },
           {
@@ -346,13 +346,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Hacking Wireless Networks.md",
+                "file": "GIT/Cryptography (Concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hacking Wireless Networks"
+              "title": "Outline of Cryptography (Concepts)"
             }
           },
           {
@@ -405,6 +405,8 @@
   },
   "active": "85a2ba34d8db9435",
   "lastOpenFiles": [
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
+    "GIT/Hacking Wireless Networks.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 16/CEH Module 16.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 17/CEH Module 17.md",
     "GIT/Hacking Mobile Platforms.md",
@@ -422,9 +424,7 @@
     "GIT/Cryptography (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 15/CEH Module 15.md",
-    "GIT/Hacking Wireless Networks.md",
     "GIT/Denial-of-Service (Concepts).md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
     "GIT/Hacking Web servers (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 10/CEH Module 10.md",

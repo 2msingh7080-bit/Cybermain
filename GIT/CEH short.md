@@ -26,7 +26,8 @@ Tags:
 	- `` bash sgpt.sh ``
 	- enter the api
 
-- to analyze log file   
+- to analyze log file IDE
+	- Tail cowrie.log
 ### References
 - ports and protocol
 

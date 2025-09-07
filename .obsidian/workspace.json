@@ -175,7 +175,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/Hacking Mobile Platforms.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -259,7 +260,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CEH short"
+              "title": "Backlinks for Hacking Mobile Platforms"
             }
           },
           {
@@ -268,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/Hacking Mobile Platforms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CEH short"
+              "title": "Outgoing links from Hacking Mobile Platforms"
             }
           },
           {
@@ -297,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/Hacking Mobile Platforms.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CEH short"
+              "title": "Outline of Hacking Mobile Platforms"
             }
           },
           {
@@ -354,12 +355,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4fd9eb82adbd448",
+  "active": "73fba95d5550eb25",
   "lastOpenFiles": [
-    "ceh.md",
     "GIT/Hacking Web Applications (concepts).md",
-    "GIT/SQL injection (concepts).md",
     "GIT/CEH short.md",
+    "ceh.md",
+    "GIT/SQL injection (concepts).md",
     "README.md",
     "GIT/Cryptography (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",

@@ -332,5 +332,7 @@ apktool d org_malwarebytes_antimalware.apk
 grep -r « 614c » org_malwarebytes_antimalware/
 
 ##  cryptanalysis
+### cryp tool
+
 
 ### References

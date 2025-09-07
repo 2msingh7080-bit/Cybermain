@@ -572,3 +572,6 @@ ans
 	- MSU StegoVideo (http://www.compression.ru)
 ### Steganography Detection Tools
  -  zsteg (supports only PNG and BMP )
+   
+   
+   - steghide 

@@ -175,7 +175,8 @@
               "title": "Denial-of-Service (Concepts)"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -297,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/Cryptography (Concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CEH short"
+              "title": "Outline of Cryptography (Concepts)"
             }
           },
           {
@@ -354,14 +355,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42656ea7e788dd00",
+  "active": "16965f3343a5b175",
   "lastOpenFiles": [
+    "GIT/CEH short.md",
     "GIT/Cryptography (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
     "GIT/Hacking Web servers (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
     "GIT/Hacking Web Applications (concepts).md",
-    "GIT/CEH short.md",
     "GIT/Denial-of-Service (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 10/CEH Module 10.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 9/Module 9.md",

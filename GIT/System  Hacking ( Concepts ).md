@@ -575,3 +575,4 @@ ans
    
    
    - steghide 
+	   - ``steghide extract -sf stealth.jpeg -p azerty@123``

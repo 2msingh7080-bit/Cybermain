@@ -175,7 +175,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -297,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/Hacking Web Applications (concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CEH short"
+              "title": "Outline of Hacking Web Applications (concepts)"
             }
           },
           {
@@ -354,12 +355,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42656ea7e788dd00",
+  "active": "6487643f93f310bb",
   "lastOpenFiles": [
+    "GIT/CEH short.md",
     "GIT/Cryptography (Concepts).md",
     "README.md",
     "ceh.md",
-    "GIT/CEH short.md",
     "GIT/Hacking Web Applications (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 15/CEH Module 15.md",

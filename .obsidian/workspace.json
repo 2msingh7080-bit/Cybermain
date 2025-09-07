@@ -223,8 +223,7 @@
               "title": "Cryptography (Concepts)"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Cryptography (Concepts).md",
+                "file": "GIT/CEH short.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -308,7 +307,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cryptography (Concepts)"
+              "title": "Backlinks for CEH short"
             }
           },
           {
@@ -317,12 +316,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Cryptography (Concepts).md",
+                "file": "GIT/CEH short.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cryptography (Concepts)"
+              "title": "Outgoing links from CEH short"
             }
           },
           {
@@ -346,13 +345,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Cryptography (Concepts).md",
+                "file": "GIT/CEH short.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cryptography (Concepts)"
+              "title": "Outline of CEH short"
             }
           },
           {
@@ -403,8 +402,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85a2ba34d8db9435",
+  "active": "42656ea7e788dd00",
   "lastOpenFiles": [
+    "GIT/Cryptography (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
     "GIT/Hacking Wireless Networks.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 16/CEH Module 16.md",
@@ -421,7 +421,6 @@
     "GIT/Hacking Web Applications (concepts).md",
     "ceh.md",
     "README.md",
-    "GIT/Cryptography (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 15/CEH Module 15.md",
     "GIT/Denial-of-Service (Concepts).md",

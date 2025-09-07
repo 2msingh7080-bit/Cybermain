@@ -339,4 +339,6 @@ Key length : 128
 
 Clé : 06 06 06 06 06 06 06 06 06
 
+## Compare the hash
+
 ### References

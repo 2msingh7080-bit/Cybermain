@@ -175,8 +175,7 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "GIT/CEH short.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -260,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for CEH short"
             }
           },
           {
@@ -269,12 +268,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "GIT/CEH short.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from CEH short"
             }
           },
           {
@@ -298,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "GIT/CEH short.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of CEH short"
             }
           },
           {
@@ -355,7 +354,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44f8118686503920",
+  "active": "42656ea7e788dd00",
   "lastOpenFiles": [
     "Untitled.md",
     "GIT/CEH short.md",

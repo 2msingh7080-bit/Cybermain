@@ -28,6 +28,8 @@ Tags:
 
 - to analyze log file IDE
 	- Tail cowrie.log
+- share files using smb 
+	- ``Smbclient //ip/CEH-Tools -U Admin``
 ### References
 - ports and protocol
 

@@ -446,7 +446,7 @@ The DC responds with an encrypted TGT, which the attacker captures. This TGT, en
 	- ``john --wordlist=/root/ADtools/rockyou.txt joshuahash.txt``
 5. we got ``user: Joshua`` and ``password: cupcake`` 
 
-## Task 3: Spray Cracked Password into Network using CrackMapExec.
+## Task 3: Spray Cracked Password into Network using (RDP) CrackMapExec.
 Using CrackMapExec for password spraying involves leveraging its capabilities to automate the process. For instance, if "cupcake" is a cracked password, CME can be used to test this password against numerous user accounts and services across a network. This approach helps identify other accounts that may be using the same password, facilitating further penetration testing or security assessments.
 
 -  we will be focusing on RDP. However, you can explore and check other services.

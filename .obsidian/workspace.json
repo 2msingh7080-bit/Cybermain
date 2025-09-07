@@ -208,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "as-re",
+                "query": "rdp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -356,7 +356,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3eb240bb36b6509b",
+  "active": "a12695e0aebe285e",
   "lastOpenFiles": [
     "GIT/SQL injection (concepts).md",
     "GIT/CEH short.md",

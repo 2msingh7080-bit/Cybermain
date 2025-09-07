@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/System  Hacking ( Concepts ).md",
+                "file": "GIT/Denial-of-Service (Concepts).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,11 +172,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "System  Hacking ( Concepts )"
+              "title": "Denial-of-Service (Concepts)"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/System  Hacking ( Concepts ).md",
+                "file": "GIT/CEH short.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of System  Hacking ( Concepts )"
+              "title": "Outline of CEH short"
             }
           },
           {
@@ -355,10 +354,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3eb240bb36b6509b",
+  "active": "42656ea7e788dd00",
   "lastOpenFiles": [
-    "GIT/CEH short.md",
+    "GIT/Denial-of-Service (Concepts).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 10/CEH Module 10.md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 9/Module 9.md",
     "GIT/System  Hacking ( Concepts ).md",
+    "GIT/CEH short.md",
     "GIT/6. Main Notes/CTF collection Vol.1.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 6/CEH Module 6.md",
     "GIT/Malware Threats (concepts).md",
@@ -381,9 +383,6 @@
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 5/CPENT Module 5.md",
     "GIT/Web Application Penetration Testing.md",
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 4/CPENT Module 4.md",
-    "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 3/CPENT Module 3.md",
-    "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 1/CPENT Module 1.md",
-    "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 2/CPENT Module 2.md",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",

@@ -25,6 +25,8 @@ Tags:
 	- ``cd /home/attacker ``
 	- `` bash sgpt.sh ``
 	- enter the api
+
+- to analyze log file   
 ### References
 - ports and protocol
 

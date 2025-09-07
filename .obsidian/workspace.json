@@ -223,7 +223,8 @@
               "title": "Cryptography (Concepts)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -297,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/SQL injection (concepts).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -307,7 +308,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CEH short"
+              "title": "Backlinks for SQL injection (concepts)"
             }
           },
           {
@@ -316,12 +317,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/SQL injection (concepts).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CEH short"
+              "title": "Outgoing links from SQL injection (concepts)"
             }
           },
           {
@@ -345,13 +346,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/SQL injection (concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CEH short"
+              "title": "Outline of SQL injection (concepts)"
             }
           },
           {
@@ -402,8 +403,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42656ea7e788dd00",
+  "active": "732ea40f4cd3d5b1",
   "lastOpenFiles": [
+    "GIT/CEH short.md",
     "GIT/Cryptography (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
     "GIT/Hacking Wireless Networks.md",
@@ -412,7 +414,6 @@
     "GIT/Hacking Mobile Platforms.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 18/CEH Module 18.md",
     "GIT/6. Main Notes/Cheat-Sheet Enumeration (best version-AI).md",
-    "GIT/CEH short.md",
     "GIT/Cheat Sheet Enueration.md",
     "GIT/System  Hacking ( Concepts ).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 6/CEH Module 6.md",

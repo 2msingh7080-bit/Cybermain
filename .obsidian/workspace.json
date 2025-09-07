@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Malware Threats (concepts).md",
+                "file": "GIT/System  Hacking ( Concepts ).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Malware Threats (concepts)"
+              "title": "System  Hacking ( Concepts )"
             }
           }
         ],
@@ -298,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Malware Threats (concepts).md",
+                "file": "GIT/System  Hacking ( Concepts ).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Malware Threats (concepts)"
+              "title": "Outline of System  Hacking ( Concepts )"
             }
           },
           {
@@ -357,17 +357,19 @@
   },
   "active": "3eb240bb36b6509b",
   "lastOpenFiles": [
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 6/CEH Module 6.md",
+    "GIT/Malware Threats (concepts).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 7/CEH Module 7.md",
+    "GIT/Sniffing (Concepts ).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 8/CEH Module 8.md",
     "GIT/5. Templates/Numbered Toggle headline.md",
     "GIT/5. Templates/Full Notes.md",
     "GIT/5. Templates/bash.md",
-    "GIT/Malware Threats (concepts).md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 7/CEH Module 7.md",
     "GIT/System  Hacking ( Concepts ).md",
     "GIT/SQL injection (concepts).md",
     "GIT/CEH short.md",
     "GIT/Vulnerability Analysis ( Concepts ).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 5/CEH Module 5.md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 6/CEH Module 6.md",
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 6/CPENT Module 6.md",
     "GIT/Hacking Web Applications (concepts).md",
     "googlead46660f2cbef5be.html",
@@ -382,8 +384,6 @@
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 1/CPENT Module 1.md",
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 2/CPENT Module 2.md",
     "GIT/1. Learnings/Cyber/CPENTv2/CPEN Module 10/CPEN Module  10.md",
-    "GIT/Hacking Mobile Platforms.md",
-    "GIT/Denial of Service.md",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",

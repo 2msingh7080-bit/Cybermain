@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -298,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Hacking Mobile Platforms.md",
+                "file": "GIT/Cryptography (Concepts).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hacking Mobile Platforms"
+              "title": "Outline of Cryptography (Concepts)"
             }
           },
           {
@@ -355,8 +355,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3eb240bb36b6509b",
+  "active": "16965f3343a5b175",
   "lastOpenFiles": [
+    "GIT/Hacking Mobile Platforms.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 17/CEH Module 17.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 16/CEH Module 16.md",
     "GIT/Denial-of-Service (Concepts).md",
@@ -383,7 +384,6 @@
     "GIT/1. Learnings/Cyber/CEH/CEH Module 5/CEH Module 5.md",
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 6/CPENT Module 6.md",
     "googlead46660f2cbef5be.html",
-    "README.md",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",

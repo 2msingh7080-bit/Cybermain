@@ -331,6 +331,8 @@ apktool d org_malwarebytes_antimalware.apk
 
 grep -r « 614c » org_malwarebytes_antimalware/
 
+### crc 
+ E:\CEH-Tools\CEHv12 Module 20 Cryptography\MD5 and MD6 Hash Calculators\HashMyFiles and double click HashMyFiles.exe.
 ##  cryptanalysis
 ### cryp tool
  Analysis > Symmetric Encryption (modern) > Further Algorithms > Twofish…

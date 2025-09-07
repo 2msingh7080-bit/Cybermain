@@ -208,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "steghide",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -357,6 +357,8 @@
   },
   "active": "3eb240bb36b6509b",
   "lastOpenFiles": [
+    "GIT/6. Main Notes/CTF collection Vol.1.md",
+    "GIT/System  Hacking ( Concepts ).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 6/CEH Module 6.md",
     "GIT/Malware Threats (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 7/CEH Module 7.md",
@@ -365,7 +367,6 @@
     "GIT/5. Templates/Numbered Toggle headline.md",
     "GIT/5. Templates/Full Notes.md",
     "GIT/5. Templates/bash.md",
-    "GIT/System  Hacking ( Concepts ).md",
     "GIT/SQL injection (concepts).md",
     "GIT/CEH short.md",
     "GIT/Vulnerability Analysis ( Concepts ).md",
@@ -383,7 +384,6 @@
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 3/CPENT Module 3.md",
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 1/CPENT Module 1.md",
     "GIT/1. Learnings/Cyber/CPENTv2/CPENT Module 2/CPENT Module 2.md",
-    "GIT/1. Learnings/Cyber/CPENTv2/CPEN Module 10/CPEN Module  10.md",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",

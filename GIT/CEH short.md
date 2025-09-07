@@ -65,3 +65,13 @@ Tags:
 | 5555            | Android Debug Bridge (ADB)                     |              |     |
 | 6703            | e-design-web (RAT)                             |              |     |
 | 9871            | Hadoop HDFS NameNode HTTPS (RAT)               |              |     |
+eapol
+
+wlan.fc.type_subtype == 0x0b
+
+wlan.fc.type_subtype == 0x00 || wlan.fc.type_subtype == 0x01
+
+wlan.fc.type_subtype == 0x0c
+
+wlan.fc.type_subtype == 0x08
+eapol || wlan.fc.type_subtype == 0x08 || wlan.fc.type_subtype == 0x0b

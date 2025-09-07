@@ -7,7 +7,7 @@ Tags:
 # CEH short
 
 - start E to view machine using 
-1. `` sudo arp-scan -local or netdiscover -i 10.10.1.0 or nmap -sn ip/24  ``
+1. `` sudo arp-scan -local or netdiscover -i 10.10.1.0 or nmap -sn ip/24  ``b
 - command for searching file in 
 	- ``find / -name filename -type f 2>/dev/null  ``
 	- ``find / -name acsa.txt -type f 2>/dev/null > cat 5sa.txt ``

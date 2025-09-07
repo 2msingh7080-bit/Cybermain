@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Denial-of-Service (Concepts).md",
+                "file": "GIT/1. Learnings/Cyber/CEH/CEH Module 17/CEH Module 17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,10 +172,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Denial-of-Service (Concepts)"
+              "title": "CEH Module 17"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -297,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/CEH short.md",
+                "file": "GIT/1. Learnings/Cyber/CEH/CEH Module 17/CEH Module 17.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CEH short"
+              "title": "Outline of CEH Module 17"
             }
           },
           {
@@ -354,15 +355,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42656ea7e788dd00",
+  "active": "3eb240bb36b6509b",
   "lastOpenFiles": [
-    "GIT/Cryptography (Concepts).md",
+    "GIT/1. Learnings/Cyber/CEH/CEH Module 16/CEH Module 16.md",
+    "GIT/Denial-of-Service (Concepts).md",
     "GIT/CEH short.md",
+    "GIT/Cryptography (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
     "GIT/Hacking Web servers (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
     "GIT/Hacking Web Applications (concepts).md",
-    "GIT/Denial-of-Service (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 10/CEH Module 10.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 9/Module 9.md",
     "GIT/System  Hacking ( Concepts ).md",
@@ -382,7 +384,6 @@
     "googlead46660f2cbef5be.html",
     "README.md",
     "GIT/API and Java Web Token Penetration Testing.md",
-    "GIT/1. Learnings/Cyber/CPENTv2/CPENT V2.md",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
     "GIT/Images/Pasted image 20250824230845.png",

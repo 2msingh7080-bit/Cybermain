@@ -31,6 +31,7 @@ Tags:
 - share files using smb 
 	- ``Smbclient //ip/CEH-Tools -U Admin``
 	- ``Smb :\> filename_ ``
+``7.  E:\CEH-Tools\ 06 System Hacking\Steganography Tools\Whitespace Steganography Tools > paste .txt > .\Snow.exe -C -p password . \.txt > copy the string > open  cyber chief or crack station online > paste > click on decrypt. ``
 ### References
 - ports and protocol
 

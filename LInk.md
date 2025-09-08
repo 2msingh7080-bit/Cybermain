@@ -37,24 +37,3 @@ This journey tested my hands-on skills in ethical hacking, penetration testing, 
 🔹 **Key & Password Attacks** – Brute-force, Dictionary, Rainbow Tables, Keylogging
 
 
-🎯 **Milestone Achievement: CEH Practical Exam Passed!**
-
-I'm excited to share that I've successfully completed the **Certified Ethical Hacker (CEH) Practical Exam** – a hands-on assessment that tested real-world penetration testing skills across multiple attack vectors and defense scenarios.
-
-This certification journey has been both challenging and rewarding, requiring months of dedicated preparation and practical lab work. The exam pushed me to think like an attacker while understanding the defender's perspective, solving complex security challenges under time constraints.
-
-**Key Technical Areas I've Mastered:**
-
-- **Reconnaissance & Information Gathering** – OSINT techniques, network mapping, and target profiling
-- **Vulnerability Assessment & Exploitation** – System hacking, privilege escalation, and payload development
-- **Web Application Security** – SQL injection, XSS, and comprehensive testing with Burp Suite
-- **Network Security Testing** – Wireless attacks, MITM scenarios, and traffic analysis
-- **Cryptographic Analysis** – Encryption weaknesses, hash cracking, and key recovery techniques
-
-🙏 Special thanks to my mentor **Jayanth Betha** for his invaluable guidance throughout this journey, and to **Hacker School** and **EC-Council** for providing comprehensive training resources that made this achievement possible.
-
-This certification represents my commitment to advancing cybersecurity practices and contributing to building more secure digital environments. I'm passionate about ethical hacking as a means to strengthen organizational defenses and protect against evolving threats.
-
-💬 **Looking forward to connecting with fellow cybersecurity professionals, ethical hackers, and anyone interested in discussing the latest trends in offensive security and threat intelligence.**
-
-#CyberSecurity #EthicalHacking #CEH #PenetrationTesting #InfoSec

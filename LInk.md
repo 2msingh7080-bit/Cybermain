@@ -14,3 +14,5 @@ https://www.linkedin.com/posts/sukanya-konar_ai-cybersecurity-careergrowth-activ
 
 ### mentions 
 [EC-Council](https://www.linkedin.com/company/ec-council/)
+[Jayanth Betha](https://www.linkedin.com/in/jayanth-betha-58274712a/)
+[Hacker School (A Subsidiary of Cartel Software Pvt. Ltd.)](https://www.linkedin.com/company/hackerschoolin/)

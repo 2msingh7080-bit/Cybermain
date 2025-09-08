@@ -7,6 +7,6 @@ https://www.linkedin.com/posts/sukanya-konar_ai-cybersecurity-careergrowth-activ
 
 
 ### Tages 
-``#CyberSecurity #EthicalHacking #CEHv13AI #ECcouncil #OffensiveSecurity #Infosec hashtag#PenetrationTesting #AIinSecurity #EthicalHacker #HackerSchool ``
+``#CyberSecurity #EthicalHacking #CEHv13AI #ECcouncil #OffensiveSecurity #Infosec #PenetrationTesting #AIinSecurity #EthicalHacker #HackerSchool ``
 
-`` ``
+``#CEH #CertifiedEthicalHacker #CyberSecurity #EthicalHacking #InfoSec #ECcouncil  #RedTeam #BlueTeam #TryHackMe #HackTheBox #BurpSuite #MalwareAnalysis #Linux #Pentesting #NeverGiveUp #CyberSecIndia #LearningJourney #Gratitude #OpenToWork #JobSearch #SecurityAnalyst #RedTeamIndia ``

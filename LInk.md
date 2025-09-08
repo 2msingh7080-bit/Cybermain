@@ -2,7 +2,7 @@ https://www.linkedin.com/posts/sukanya-konar_ai-cybersecurity-careergrowth-activ
 
 
 ### Post content 
-
+I'm excited to share that I have successfully earned the CEH Practical certification!
 
 
 

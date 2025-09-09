@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da88d6342b65df04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/6. Main Notes/Cheat-Sheet Enumeration (best version-AI).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cheat-Sheet Enumeration (best version-AI)"
-            }
-          },
-          {
-            "id": "85a2ba34d8db9435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/Cryptography (Concepts).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cryptography (Concepts)"
-            }
-          },
-          {
             "id": "31acc923605d44de",
             "type": "leaf",
             "state": {
@@ -103,7 +55,8 @@
               "title": "project Idea"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/6. Main Notes/Cheat-Sheet Enumeration (best version-AI).md",
+                "file": "GIT/project Idea.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cheat-Sheet Enumeration (best version-AI)"
+              "title": "Outline of project Idea"
             }
           },
           {
@@ -282,14 +235,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da88d6342b65df04",
+  "active": "6aa6827ebfd9be49",
   "lastOpenFiles": [
-    "GIT/System  Hacking ( Concepts ).md",
+    "GIT/CEH short.md",
     "GIT/Cryptography (Concepts).md",
+    "GIT/6. Main Notes/Cheat-Sheet Enumeration (best version-AI).md",
+    "GIT/System  Hacking ( Concepts ).md",
     "GIT/Hacking Mobile Platforms.md",
     "GIT/Hacking Web Applications (concepts).md",
     "GIT/6. Main Notes/Cheatsheet NMAP.md",
-    "GIT/6. Main Notes/Cheat-Sheet Enumeration (best version-AI).md",
     "GIT/project Idea.md",
     "GIT/Lab Hands on.md",
     "GIT/Report writing.md",
@@ -298,7 +252,6 @@
     "LInk.md",
     "GIT/info.md",
     "Pasted image 20250909171157.png",
-    "GIT/CEH short.md",
     "GIT/Cheat Sheet Enueration.md",
     "GIT/SQL injection (concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",

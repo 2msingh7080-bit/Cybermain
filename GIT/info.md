@@ -17,3 +17,4 @@ linkedin: https://in.linkedin.com/in/nnandkishore
   :mrnnicekid@hotmail.com
   children : Boy (6 years ) and girl (8 years ) 
   microfost account name as arjun 
+  ![[Pasted image 20250909171157.png]]

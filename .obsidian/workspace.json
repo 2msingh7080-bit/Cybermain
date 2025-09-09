@@ -270,9 +270,33 @@
               "icon": "lucide-file",
               "title": "LInk"
             }
+          },
+          {
+            "id": "d67340e449430b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/info.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "info"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -304,7 +328,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ceh s",
+                "query": "kishore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -325,7 +349,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -394,13 +419,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LInk.md",
+                "file": "GIT/info.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LInk"
+              "title": "Outline of info"
             }
           },
           {
@@ -451,8 +476,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6aa6827ebfd9be49",
+  "active": "d67340e449430b6c",
   "lastOpenFiles": [
+    "Pasted image 20250909171157.png",
     "LInk.md",
     "GIT/CEH short.md",
     "GIT/6. Main Notes/Cheat-Sheet Enumeration (best version-AI).md",
@@ -478,7 +504,6 @@
     "GIT/Hacking Web servers (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 13/CEH Module 13.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 10/CEH Module 10.md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 9/Module 9.md",
     "googlead46660f2cbef5be.html",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",

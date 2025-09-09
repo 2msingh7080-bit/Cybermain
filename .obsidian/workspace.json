@@ -8,174 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42656ea7e788dd00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/6. Main Notes/Cheat-Sheet Enumeration (best version-AI).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cheat-Sheet Enumeration (best version-AI)"
-            }
-          },
-          {
-            "id": "732ea40f4cd3d5b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/6. Main Notes/Cheatsheet NMAP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cheatsheet NMAP"
-            }
-          },
-          {
-            "id": "6487643f93f310bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/Hacking Web Applications (concepts).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hacking Web Applications (concepts)"
-            }
-          },
-          {
-            "id": "73fba95d5550eb25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/Hacking Mobile Platforms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hacking Mobile Platforms"
-            }
-          },
-          {
-            "id": "bc82be3b7982efd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/Cryptography (Concepts).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cryptography (Concepts)"
-            }
-          },
-          {
-            "id": "16965f3343a5b175",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/Cryptography (Concepts).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cryptography (Concepts)"
-            }
-          },
-          {
-            "id": "44f8118686503920",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/System  Hacking ( Concepts ).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "System  Hacking ( Concepts )"
-            }
-          },
-          {
             "id": "da88d6342b65df04",
             "type": "leaf",
             "state": {
@@ -253,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/1. Learnings/Cyber/JOBE/Job ready.md",
+                "file": "GIT/project Idea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,11 +100,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Job ready"
+              "title": "project Idea"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -394,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/1. Learnings/Cyber/JOBE/Job ready.md",
+                "file": "GIT/6. Main Notes/Cheat-Sheet Enumeration (best version-AI).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Job ready"
+              "title": "Outline of Cheat-Sheet Enumeration (best version-AI)"
             }
           },
           {
@@ -451,35 +282,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6aa6827ebfd9be49",
+  "active": "da88d6342b65df04",
   "lastOpenFiles": [
+    "GIT/System  Hacking ( Concepts ).md",
+    "GIT/Cryptography (Concepts).md",
+    "GIT/Hacking Mobile Platforms.md",
+    "GIT/Hacking Web Applications (concepts).md",
+    "GIT/6. Main Notes/Cheatsheet NMAP.md",
+    "GIT/6. Main Notes/Cheat-Sheet Enumeration (best version-AI).md",
+    "GIT/project Idea.md",
+    "GIT/Lab Hands on.md",
+    "GIT/Report writing.md",
     "GIT/1. Learnings/Cyber/JOBE/Road map Cyber Security.md",
     "GIT/1. Learnings/Cyber/JOBE/Job ready.md",
     "LInk.md",
     "GIT/info.md",
     "Pasted image 20250909171157.png",
     "GIT/CEH short.md",
-    "GIT/6. Main Notes/Cheat-Sheet Enumeration (best version-AI).md",
     "GIT/Cheat Sheet Enueration.md",
-    "GIT/6. Main Notes/Cheatsheet NMAP.md",
     "GIT/SQL injection (concepts).md",
-    "GIT/Hacking Web Applications (concepts).md",
-    "GIT/Hacking Mobile Platforms.md",
-    "GIT/Cryptography (Concepts).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 20/CEH Module 20.md",
     "GIT/Hacking Wireless Networks.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 16/CEH Module 16.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 17/CEH Module 17.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 18/CEH Module 18.md",
-    "GIT/System  Hacking ( Concepts ).md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 6/CEH Module 6.md",
     "Untitled.md",
     "ceh.md",
     "README.md",
     "GIT/1. Learnings/Cyber/CEH/CEH Module 14/Module 14.md",
-    "GIT/1. Learnings/Cyber/CEH/CEH Module 15/CEH Module 15.md",
-    "GIT/Denial-of-Service (Concepts).md",
-    "GIT/Hacking Web servers (Concepts).md",
     "googlead46660f2cbef5be.html",
     "GIT",
     "GIT/Images/Pasted image 20250802150826.png",
